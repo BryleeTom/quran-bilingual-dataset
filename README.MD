@@ -58,47 +58,6 @@ Provides a lightweight overview of all 114 surahs — ideal for quick listing or
 }
 ```
 
----
-
-### 🕋 Surah Files (001–114)
-Each surah folder contains one or more JSON files split by verse range, e.g.:
-
-surah/
-├── 001/
-│ ├── 001_1_7.json
-├── 002/
-│ ├── 002_1_50.json
-│ ├── 002_51_100.json
-│ └── ...
-
-
-Each chunk file (e.g. `001/001_1_7.json`) contains:
-- Arabic text  
-- Transliteration (EN & ID)  
-- Translation (EN & ID)
-
-Example — **`001/001_1_7.json`**:
-```json
-[
-  {
-    "ayat": 1,
-    "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-    "transliteration_en": "Bismillaahir Rahmaanir Raheem",
-    "transliteration_id": "Bismillāhir-raḥmānir-raḥīm",
-    "translation_en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
-    "translation_id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
-  },
-  {
-    "ayat": 2,
-    "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
-    "transliteration_en": "Alhamdu lillaahi Rabbil 'aalameen",
-    "transliteration_id": "Al-ḥamdu lillāhi rabbil-‘ālamīn(a)",
-    "translation_en": "[All] praise is [due] to Allah, Lord of the worlds.",
-    "translation_id": "Segala puji bagi Allah, Tuhan semesta alam."
-  }
-]
-```
-
 ### 🪶 Attribution
 
 **Data sourced and combined from:**
