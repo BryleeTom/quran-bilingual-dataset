@@ -30,12 +30,19 @@ Provides a lightweight overview of all 114 surahs — ideal for quick listing or
 {
   "1": {
     "surah": 1,
-    "file": "001.json",
+    "folder": "001",
+    "chunks": [
+      {
+        "start": 1,
+        "end": 7,
+        "file": "001_1_7.json"
+      }
+    ],
     "name_en": "The Opening",
     "name_id": "Al-Fatihah",
     "revelation": "Mekah",
     "total": 7
-  }
+  },
 }
 ```
 
