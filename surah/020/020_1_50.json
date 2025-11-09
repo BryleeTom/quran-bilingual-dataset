@@ -1,0 +1,402 @@
+[
+  {
+    "ayat": 1,
+    "arabic": "طٰهٰ ۚ",
+    "transliteration_en": "Taa-Haa",
+    "transliteration_id": "Ṭāhā.",
+    "translation_en": "Ta, Ha.",
+    "translation_id": "Ṭā Hā."
+  },
+  {
+    "ayat": 2,
+    "arabic": "مَآ اَنْزَلْنَا عَلَيْكَ الْقُرْاٰنَ لِتَشْقٰٓى ۙ",
+    "transliteration_en": "Maaa anzalnaa 'alaikal Qur-aana litashqaaa",
+    "transliteration_id": "Mā anzalnā ‘alaikal-qur'āna litasyqā.",
+    "translation_en": "We have not sent down to you the Qur'an that you be distressed",
+    "translation_id": "Kami tidak menurunkan Al-Qur’an ini kepadamu (Nabi Muhammad) supaya engkau menjadi susah."
+  },
+  {
+    "ayat": 3,
+    "arabic": "اِلَّا تَذْكِرَةً لِّمَنْ يَّخْشٰى ۙ",
+    "transliteration_en": "Illaa tazkiratal limany yakshaa",
+    "transliteration_id": "Illā tażkiratal limay yakhsyā.",
+    "translation_en": "But only as a reminder for those who fear [Allah] -",
+    "translation_id": "(Kami tidak menurunkannya,) kecuali sebagai peringatan bagi orang yang takut (kepada Allah)."
+  },
+  {
+    "ayat": 4,
+    "arabic": "تَنْزِيْلًا مِّمَّنْ خَلَقَ الْاَرْضَ وَالسَّمٰوٰتِ الْعُلٰى ۗ",
+    "transliteration_en": "Tanzeelam mimman khalaqal arda was samaawaatil 'ulaa",
+    "transliteration_id": "Tanzīlam mimman khalaqal-arḍa was-samāwātil-‘ulā.",
+    "translation_en": "A revelation from He who created the earth and highest heavens,",
+    "translation_id": "(Al-Qur’an) diturunkan dari (Allah) yang telah menciptakan bumi dan langit yang tinggi."
+  },
+  {
+    "ayat": 5,
+    "arabic": "اَلرَّحْمٰنُ عَلَى الْعَرْشِ اسْتَوٰى",
+    "transliteration_en": "Ar-Rahmaanu 'alal 'Arshis tawaa",
+    "transliteration_id": "Ar- raḥmānu ‘alal-‘arsyistawā.",
+    "translation_en": "The Most Merciful [who is] above the Throne established.",
+    "translation_id": "(Dialah Allah) Yang Maha Pengasih (dan) bersemayam di atas ʻArasy."
+  },
+  {
+    "ayat": 6,
+    "arabic": "لَهٗ مَا فِى السَّمٰوٰتِ وَمَا فِى الْاَرْضِ وَمَا بَيْنَهُمَا وَمَا تَحْتَ الثَّرٰى",
+    "transliteration_en": "Lahoo maa fis samaawaati wa maa fil ardi wa maa bainahumaa wa maa tahtassaraa",
+    "transliteration_id": "Lahū mā fis-samāwāti wa mā fil-arḍi wa mā bainahumā wa mā taḥtaṡ-ṡarā.",
+    "translation_en": "To Him belongs what is in the heavens and what is on the earth and what is between them and what is under the soil.",
+    "translation_id": "Milik-Nyalah apa yang ada di langit, apa yang ada di bumi, apa yang ada di antara keduanya, dan apa yang ada di bawah tanah."
+  },
+  {
+    "ayat": 7,
+    "arabic": "وَاِنْ تَجْهَرْ بِالْقَوْلِ فَاِنَّهٗ يَعْلَمُ السِّرَّ وَاَخْفٰى",
+    "transliteration_en": "Wa in tajhar bilqawli fainnahoo ya'lamus sirra wa akhfaa",
+    "transliteration_id": "Wa in tajhar bil-qauli fa innahū ya‘lamus-sirra wa akhfā.",
+    "translation_en": "And if you speak aloud - then indeed, He knows the secret and what is [even] more hidden.",
+    "translation_id": "Jika engkau mengeraskan ucapanmu, sesungguhnya Dia mengetahui (ucapan yang) rahasia dan yang lebih tersembunyi (darinya)."
+  },
+  {
+    "ayat": 8,
+    "arabic": "اَللّٰهُ لَآ اِلٰهَ اِلَّا هُوَۗ  لَهُ الْاَسْمَاۤءُ الْحُسْنٰى",
+    "transliteration_en": "Allaahu laaa ilasha illaa Huwa lahul Asmaaa'ul Husnaa",
+    "transliteration_id": "Allāhu lā ilāha illā huw(a), lahul-asmā'ul-ḥusnā.",
+    "translation_en": "Allah - there is no deity except Him. To Him belong the best names.",
+    "translation_id": "Allah tidak ada tuhan selain Dia. Milik-Nyalah nama-nama yang terbaik."
+  },
+  {
+    "ayat": 9,
+    "arabic": "وَهَلْ اَتٰىكَ حَدِيْثُ مُوْسٰى ۘ",
+    "transliteration_en": "Wa hal ataaka hadeesu Moosa",
+    "transliteration_id": "Wa hal atāka ḥadīṡu mūsā.",
+    "translation_en": "And has the story of Moses reached you? -",
+    "translation_id": "Apakah telah sampai kepadamu (Nabi Muhammad) kisah Musa?"
+  },
+  {
+    "ayat": 10,
+    "arabic": "اِذْ رَاٰ نَارًا فَقَالَ لِاَهْلِهِ امْكُثُوْٓا اِنِّيْٓ اٰنَسْتُ نَارًا لَّعَلِّيْٓ اٰتِيْكُمْ مِّنْهَا بِقَبَسٍ اَوْ اَجِدُ عَلَى النَّارِ هُدًى",
+    "transliteration_en": "Iz ra aa naaran faqaala li alhlihim kusooo inneee aanastu naaral la'alleee aateekum minhaa biqabasin aw ajidu 'alan naari hudaa",
+    "transliteration_id": "Iż ra'ā nāran fa qāla li'ahlihimkuṡū innī ānastu nāral la‘allī ātīkum minhā biqabasin au ajidu ‘alan-nāri hudā(n).",
+    "translation_en": "When he saw a fire and said to his family, \"Stay here; indeed, I have perceived a fire; perhaps I can bring you a torch or find at the fire some guidance.\"",
+    "translation_id": "(Ingatlah) ketika dia (Musa) melihat api, lalu berkata kepada keluarganya, “Tinggallah (di sini)! Sesungguhnya aku melihat api. Mudah-mudahan aku dapat membawa sedikit nyala api kepadamu atau mendapat petunjuk di tempat api itu.”"
+  },
+  {
+    "ayat": 11,
+    "arabic": "فَلَمَّآ اَتٰىهَا نُوْدِيَ يٰمُوْسٰٓى ۙ",
+    "transliteration_en": "Falammaaa ataahaa noodiya yaa Moosaa",
+    "transliteration_id": "Falammā atāhā nūdiya yā mūsā.",
+    "translation_en": "And when he came to it, he was called, \"O Moses,",
+    "translation_id": "Ketika mendatanginya (tempat api), dia (Musa) dipanggil, “Wahai Musa."
+  },
+  {
+    "ayat": 12,
+    "arabic": "اِنِّيْٓ اَنَا۠ رَبُّكَ فَاخْلَعْ نَعْلَيْكَۚ اِنَّكَ بِالْوَادِ الْمُقَدَّسِ طُوًى ۗ",
+    "transliteration_en": "Inneee Ana Rabbuka fakhla' na'laika innaka bilwaadil muqaddasi Tuwaa",
+    "transliteration_id": "Innī ana rabbuka fakhla‘ na‘laika innaka bil-wādil-muqaddasi ṭuwā(n).",
+    "translation_en": "Indeed, I am your Lord, so remove your sandals. Indeed, you are in the sacred valley of Tuwa.",
+    "translation_id": "Sesungguhnya Aku adalah Tuhanmu. Lepaskanlah kedua terompahmu karena sesungguhnya engkau berada di lembah yang suci, yaitu Tuwa."
+  },
+  {
+    "ayat": 13,
+    "arabic": "وَاَنَا اخْتَرْتُكَ فَاسْتَمِعْ لِمَا يُوْحٰى",
+    "transliteration_en": "Wa anakhtartuka fastami' limaa yoohaa",
+    "transliteration_id": "Wa anakhtartuka fastami‘ limā yūḥā.",
+    "translation_en": "And I have chosen you, so listen to what is revealed [to you].",
+    "translation_id": "Aku telah memilihmu, maka dengarkanlah apa yang akan diwahyukan (kepadamu)."
+  },
+  {
+    "ayat": 14,
+    "arabic": "اِنَّنِيْٓ اَنَا اللّٰهُ لَآ اِلٰهَ اِلَّآ اَنَا۠ فَاعْبُدْنِيْۙ وَاَقِمِ الصَّلٰوةَ لِذِكْرِيْ",
+    "transliteration_en": "Innaneee Anal laahu laaa ilaaha illaa Ana fa'budnee wa aqimis-salaata lizikree",
+    "transliteration_id": "Innanī anallāhu lā ilāha illā ana fa‘budnī, wa aqimiṣ-ṣalāta liżikrī.",
+    "translation_en": "Indeed, I am Allah. There is no deity except Me, so worship Me and establish prayer for My remembrance.",
+    "translation_id": "Sesungguhnya Aku adalah Allah, tidak ada tuhan selain Aku. Maka, sembahlah Aku dan tegakkanlah salat untuk mengingat-Ku."
+  },
+  {
+    "ayat": 15,
+    "arabic": "اِنَّ السَّاعَةَ اٰتِيَةٌ اَكَادُ اُخْفِيْهَا لِتُجْزٰى كُلُّ نَفْسٍۢ بِمَا تَسْعٰى",
+    "transliteration_en": "Innas Saa'ata aatiyatun akaadu ukhfeehaa litujzaa kullu nafsim bimaa tas'aa",
+    "transliteration_id": "Innas-sā‘ata ātiyatun akādu ukhfīhā litujzā kullu nafsim bimā tas‘ā.",
+    "translation_en": "Indeed, the Hour is coming - I almost conceal it - so that every soul may be recompensed according to that for which it strives.",
+    "translation_id": "Sesungguhnya hari Kiamat itu (pasti) akan datang. Aku hampir (benar-benar) menyembunyikannya. (Kedatangannya itu dimaksudkan) agar setiap jiwa dibalas sesuai dengan apa yang telah dia usahakan."
+  },
+  {
+    "ayat": 16,
+    "arabic": "فَلَا يَصُدَّنَّكَ عَنْهَا مَنْ لَّا يُؤْمِنُ بِهَا وَاتَّبَعَ هَوٰىهُ فَتَرْدٰى",
+    "transliteration_en": "Falaa yasuddannnaka 'anhaa mal laa yu'minu bihaa wattaba'a hawaahu fatardaa",
+    "transliteration_id": "Falā yaṣuddannaka ‘anhā mal lā yu'minu bihā wattaba‘a hawāhu fa tardā.",
+    "translation_en": "So do not let one avert you from it who does not believe in it and follows his desire, for you [then] would perish.",
+    "translation_id": "Janganlah engkau dipalingkan darinya (iman pada hari Kiamat) oleh orang yang tidak beriman padanya dan mengikuti hawa nafsunya sehingga engkau binasa."
+  },
+  {
+    "ayat": 17,
+    "arabic": "وَمَا تِلْكَ بِيَمِيْنِكَ يٰمُوْسٰى",
+    "transliteration_en": "Wa maa tilka bi yamee nika yaa Moosaa",
+    "transliteration_id": "Wa mā tilka biyamīnika yā mūsā.",
+    "translation_en": "And what is that in your right hand, O Moses?\"",
+    "translation_id": "Apa yang ada di tangan kananmu itu, wahai Musa?”"
+  },
+  {
+    "ayat": 18,
+    "arabic": "قَالَ هِيَ عَصَايَۚ اَتَوَكَّؤُا عَلَيْهَا وَاَهُشُّ بِهَا عَلٰى غَنَمِيْ وَلِيَ فِيْهَا مَاٰرِبُ اُخْرٰى",
+    "transliteration_en": "Qaala hiya 'asaaya atawakka'u alaihaa wa ahushshu bihaa 'alaa ghanamee wa liya feehaa ma aaribu ukhraa",
+    "transliteration_id": "Qāla hiya ‘aṣāy(a), atwakka'u ‘alaihā wa ahusysyu bihā ‘alā ganamī wa liya fīhā ma'āribu ukhrā.",
+    "translation_en": "He said, \"It is my staff; I lean upon it, and I bring down leaves for my sheep and I have therein other uses.\"",
+    "translation_id": "(Musa) berkata, “Ia adalah tongkatku. Aku (dapat) bersandar padanya, merontokkan (daun-daun) dengannya untuk (makanan) kambingku, dan memiliki keperluan lain padanya.”"
+  },
+  {
+    "ayat": 19,
+    "arabic": "قَالَ اَلْقِهَا يٰمُوْسٰى",
+    "transliteration_en": "Qaala alqihaa yaa Moosaa",
+    "transliteration_id": "Qāla alqihā yā mūsā.",
+    "translation_en": "[Allah] said, \"Throw it down, O Moses.\"",
+    "translation_id": "(Allah) berfirman, “Lemparkanlah (tongkat) itu, wahai Musa!”"
+  },
+  {
+    "ayat": 20,
+    "arabic": "فَاَلْقٰىهَا فَاِذَا هِيَ حَيَّةٌ تَسْعٰى",
+    "transliteration_en": "Fa-alqaahaa fa -izaa hiya haiyatun tas'aa",
+    "transliteration_id": "Fa alqāhā fa iżā hiya ḥayyatun tas‘ā.",
+    "translation_en": "So he threw it down, and thereupon it was a snake, moving swiftly.",
+    "translation_id": "Maka, dia (Musa) melemparkannya. Tiba-tiba ia menjadi seekor ular yang merayap dengan cepat."
+  },
+  {
+    "ayat": 21,
+    "arabic": "قَالَ خُذْهَا وَلَا تَخَفْۗ سَنُعِيْدُهَا سِيْرَتَهَا الْاُوْلٰى",
+    "transliteration_en": "Qaala khuzhaa wa laa ta khaf sanu'eeduhaa seeratahal oolaa",
+    "transliteration_id": "Qāla khużhā wa lā takhaf, sanu‘īduhā sīratahal-ūlā.",
+    "translation_en": "[Allah] said, \"Seize it and fear not; We will return it to its former condition.",
+    "translation_id": "Dia (Allah) berfirman, “Ambillah dan jangan takut! Kami akan mengembalikannya pada keadaannya semula."
+  },
+  {
+    "ayat": 22,
+    "arabic": "وَاضْمُمْ يَدَكَ اِلٰى جَنَاحِكَ تَخْرُجْ بَيْضَاۤءَ مِنْ غَيْرِ سُوْۤءٍ اٰيَةً اُخْرٰىۙ",
+    "transliteration_en": "Wadmum yadaka ilaa janaahika takhruj baidaaa'a min ghairi sooo'in Aayatan ukhraa",
+    "transliteration_id": "Waḍmum yadaka ilā janāḥika takhruj baiḍā'a min gairi sū'in āyatan ukhrā.",
+    "translation_en": "And draw in your hand to your side; it will come out white without disease - another sign,",
+    "translation_id": "Kepitlah (telapak) tanganmu ke ketiakmu, niscaya ia akan keluar dalam keadaan putih (bercahaya) tanpa cacat sebagai mukjizat yang lain."
+  },
+  {
+    "ayat": 23,
+    "arabic": "لِنُرِيَكَ مِنْ اٰيٰتِنَا الْكُبْرٰى ۚ",
+    "transliteration_en": "Linuriyaka min Aayaatinal Kubra",
+    "transliteration_id": "Linuriyaka min āyātinal-kubrā.",
+    "translation_en": "That We may show you [some] of Our greater signs.",
+    "translation_id": "(Kami perintahkan itu) untuk memperlihatkan kepadamu sebagian tanda-tanda kebesaran Kami yang terbesar."
+  },
+  {
+    "ayat": 24,
+    "arabic": "اِذْهَبْ اِلٰى فِرْعَوْنَ اِنَّهٗ طَغٰى ࣖ",
+    "transliteration_en": "Izhab ilaa Fir'awna innahoo taghaa",
+    "transliteration_id": "Iżhab ilā fir‘auna innahū ṭagā.",
+    "translation_en": "Go to Pharaoh. Indeed, he has transgressed.\"",
+    "translation_id": "Pergilah kepada Fir‘aun! Sesungguhnya dia telah melampaui batas.”"
+  },
+  {
+    "ayat": 25,
+    "arabic": "قَالَ رَبِّ اشْرَحْ لِيْ صَدْرِيْ ۙ",
+    "transliteration_en": "Qaala Rabbish rah lee sadree",
+    "transliteration_id": "Qāla rabbisyraḥ lī ṣadrī.",
+    "translation_en": "[Moses] said, \"My Lord, expand for me my breast [with assurance]",
+    "translation_id": "Dia (Musa) berkata, “Wahai Tuhanku, lapangkanlah dadaku,"
+  },
+  {
+    "ayat": 26,
+    "arabic": "وَيَسِّرْ لِيْٓ اَمْرِيْ ۙ",
+    "transliteration_en": "Wa yassir leee amree",
+    "transliteration_id": "Wa yassir lī amrī.",
+    "translation_en": "And ease for me my task",
+    "translation_id": "mudahkanlah untukku urusanku,"
+  },
+  {
+    "ayat": 27,
+    "arabic": "وَاحْلُلْ عُقْدَةً مِّنْ لِّسَانِيْ ۙ",
+    "transliteration_en": "Wahlul 'uqdatam milli saanee",
+    "transliteration_id": "Waḥlul ‘uqdatam mil lisānī.",
+    "translation_en": "And untie the knot from my tongue",
+    "translation_id": "dan lepaskanlah kekakuan dari lidahku"
+  },
+  {
+    "ayat": 28,
+    "arabic": "يَفْقَهُوْا قَوْلِيْ  ۖ",
+    "transliteration_en": "Yafqahoo qawlee",
+    "transliteration_id": "Yafqahū qaulī.",
+    "translation_en": "That they may understand my speech.",
+    "translation_id": "agar mereka mengerti perkataanku."
+  },
+  {
+    "ayat": 29,
+    "arabic": "وَاجْعَلْ لِّيْ وَزِيْرًا مِّنْ اَهْلِيْ ۙ",
+    "transliteration_en": "Waj'al lee wazeeram min ahlee",
+    "transliteration_id": "Waj‘al lī wazīram min ahlī.",
+    "translation_en": "And appoint for me a minister from my family -",
+    "translation_id": "Jadikanlah untukku seorang penolong dari keluargaku,"
+  },
+  {
+    "ayat": 30,
+    "arabic": "هٰرُوْنَ اَخِى ۙ",
+    "transliteration_en": "Haaroona akhee",
+    "transliteration_id": "Hārūna akhī.",
+    "translation_en": "Aaron, my brother.",
+    "translation_id": "(yaitu) Harun, saudaraku."
+  },
+  {
+    "ayat": 31,
+    "arabic": "اشْدُدْ بِهٖٓ اَزْرِيْ ۙ",
+    "transliteration_en": "Ushdud biheee azree",
+    "transliteration_id": "Usydud bihī azrī.",
+    "translation_en": "Increase through him my strength",
+    "translation_id": "Teguhkanlah kekuatanku dengannya,"
+  },
+  {
+    "ayat": 32,
+    "arabic": "وَاَشْرِكْهُ فِيْٓ اَمْرِيْ ۙ",
+    "transliteration_en": "Wa ashrik hu feee amree",
+    "transliteration_id": "Wa asyrik-hu fī amrī.",
+    "translation_en": "And let him share my task",
+    "translation_id": "dan sertakan dia dalam urusanku (kenabian)"
+  },
+  {
+    "ayat": 33,
+    "arabic": "كَيْ نُسَبِّحَكَ كَثِيْرًا ۙ",
+    "transliteration_en": "Kai nusabbihaka kaseeraa",
+    "transliteration_id": "Kai nusabbiḥaka kaṡīrā(n).",
+    "translation_en": "That we may exalt You much",
+    "translation_id": "agar kami banyak bertasbih kepada-Mu,"
+  },
+  {
+    "ayat": 34,
+    "arabic": "وَّنَذْكُرَكَ كَثِيْرًا ۗ",
+    "transliteration_en": "Wa nazkuraka kaseeraa",
+    "transliteration_id": "Wa nażkuraka kaṡīrā(n).",
+    "translation_en": "And remember You much.",
+    "translation_id": "dan banyak berzikir kepada-Mu."
+  },
+  {
+    "ayat": 35,
+    "arabic": "اِنَّكَ كُنْتَ بِنَا بَصِيْرًا",
+    "transliteration_en": "Innaka kunta binaa baseeraa",
+    "transliteration_id": "Innaka kunta binā baṣīrā(n).",
+    "translation_en": "Indeed, You are of us ever Seeing.\"",
+    "translation_id": "Sesungguhnya Engkau Maha Melihat (keadaan) kami.”"
+  },
+  {
+    "ayat": 36,
+    "arabic": "قَالَ قَدْ اُوْتِيْتَ سُؤْلَكَ يٰمُوْسٰى",
+    "transliteration_en": "Qaala qad ooteeta su'laka yaa Moosaa",
+    "transliteration_id": "Qāla qad ūtīta su'laka yā mūsā.",
+    "translation_en": "[Allah] said, \"You have been granted your request, O Moses.",
+    "translation_id": "(Allah) berfirman, “Sungguh, telah diperkenankan permintaanmu, wahai Musa."
+  },
+  {
+    "ayat": 37,
+    "arabic": "وَلَقَدْ مَنَنَّا عَلَيْكَ مَرَّةً اُخْرٰىٓ ۙ",
+    "transliteration_en": "Wa laqad manannaa 'alaika marratan ukhraaa",
+    "transliteration_id": "Wa laqad manannā ‘alaika marratan ukhrā.",
+    "translation_en": "And We had already conferred favor upon you another time,",
+    "translation_id": "Sungguh, Kami benar-benar telah memberikan nikmat kepadamu pada kesempatan yang lain (sebelum ini),"
+  },
+  {
+    "ayat": 38,
+    "arabic": "اِذْ اَوْحَيْنَآ اِلٰٓى اُمِّكَ مَا يُوْحٰىٓ ۙ",
+    "transliteration_en": "Iz awhainaaa ilaaa ummika maa yoohaaa",
+    "transliteration_id": "Iż auḥainā ilā ummika mā yūḥā.",
+    "translation_en": "When We inspired to your mother what We inspired,",
+    "translation_id": "(yaitu) ketika Kami mengilhamkan kepada ibumu sesuatu yang diilhamkan."
+  },
+  {
+    "ayat": 39,
+    "arabic": "اَنِ اقْذِفِيْهِ فِى التَّابُوْتِ فَاقْذِفِيْهِ فِى الْيَمِّ فَلْيُلْقِهِ الْيَمُّ بِالسَّاحِلِ يَأْخُذْهُ عَدُوٌّ لِّيْ وَعَدُوٌّ لَّهٗ  ۗوَاَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِّنِّيْ ەۚ وَلِتُصْنَعَ عَلٰى عَيْنِيْ ۘ",
+    "transliteration_en": "Aniqzifeehi fit Taabooti faqzifeehi fil yammi fal yul qihil yammu bis saahili yaakhuzhu 'aduwwul lee wa 'aduwwul lah; wa alqaitu 'alaika mahabbatam minnee wa litusna'a 'alaa 'ainee",
+    "transliteration_id": "Aniqżifīhi fit-tābūti faqżifīhi fil-yammi falyulqihil-yammu bis-sāḥili ya'khużhu ‘aduwwul lī wa ‘aduwwul lah(ū), wa alqaitu ‘alaika maḥabbatam minnī, wa lituṣna‘a ‘alā ‘ainī.",
+    "translation_en": "[Saying], 'Cast him into the chest and cast it into the river, and the river will throw it onto the bank; there will take him an enemy to Me and an enemy to him.' And I bestowed upon you love from Me that you would be brought up under My eye.",
+    "translation_id": "(Ilham itu adalah perintah Kami kepada ibumu,) ‘Letakkanlah dia (Musa) di dalam peti, kemudian hanyutkanlah dia ke sungai (Nil). Maka, biarlah (arus) sungai itu membawanya ke tepi. Dia akan diambil oleh (Fir‘aun) musuh-Ku dan musuhnya.’ Aku telah melimpahkan kepadamu kasih sayang dari-Ku dan agar engkau diasuh di bawah pengawasan-Ku."
+  },
+  {
+    "ayat": 40,
+    "arabic": "اِذْ تَمْشِيْٓ اُخْتُكَ فَتَقُوْلُ هَلْ اَدُلُّكُمْ عَلٰى مَنْ يَّكْفُلُهٗ ۗفَرَجَعْنٰكَ اِلٰٓى اُمِّكَ كَيْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ ەۗ وَقَتَلْتَ نَفْسًا فَنَجَّيْنٰكَ مِنَ الْغَمِّ وَفَتَنّٰكَ فُتُوْنًا ەۗ فَلَبِثْتَ سِنِيْنَ فِيْٓ اَهْلِ مَدْيَنَ ەۙ ثُمَّ جِئْتَ عَلٰى قَدَرٍ يّٰمُوْسٰى",
+    "transliteration_en": "Iz tamsheee ukhtuka fataqoolu hal adullukum 'alaa mai yakfuluhoo faraja 'naaka ilaaa ummika kai taqarra 'ainuhaa wa laa tahzan; wa qatalta nafsan fanajjainaaka minal ghammi wa fatannaaka futoonaa; falabista sineena feee ahli Madyana summa ji'ta 'alaa qadariny yaa Moosa",
+    "transliteration_id": "Iż tamsyī ukhtuka fa taqūlu hal adullukum ‘alā may yakfuluh(ū), fa raja‘nāka ilā ummika kai taqarra ‘ainuhā wa lā taḥzan(a), wa qatalta nafsan fa najjaināka minal-gammi wa fatannāka futūnā(n), fa labiṡta sinīna fī ahli madyan(a), ṡumma ji'ta ‘alā qadariy yā mūsā.",
+    "translation_en": "[And We favored you] when your sister went and said, 'Shall I direct you to someone who will be responsible for him?' So We restored you to your mother that she might be content and not grieve. And you killed someone, but We saved you from retaliation and tried you with a [severe] trial. And you remained [some] years among the people of Madyan. Then you came [here] at the decreed time, O Moses.",
+    "translation_id": "Ketika saudara perempuanmu berjalan (untuk mengawasi dan mengetahui berita), dia berkata (kepada keluarga Fir‘aun), ‘Bolehkah saya menunjukkan kepadamu orang yang akan memeliharanya?’ Maka, Kami mengembalikanmu kepada ibumu agar senang hatinya dan tidak bersedih. Engkau pernah membunuh seseorang (tanpa sengaja) lalu Kami selamatkan engkau dari kesulitan (yang besar) dan Kami telah mencobamu dengan beberapa cobaan (yang berat). Lalu, engkau tinggal beberapa tahun di antara penduduk Madyan, kemudian engkau, wahai Musa, datang menurut waktu yang ditetapkan."
+  },
+  {
+    "ayat": 41,
+    "arabic": "وَاصْطَنَعْتُكَ لِنَفْسِيْۚ",
+    "transliteration_en": "Wastana' tuka linafsee",
+    "transliteration_id": "Wasṭana‘tuka linafsī.",
+    "translation_en": "And I produced you for Myself.",
+    "translation_id": "Aku telah memilihmu (menjadi rasul) untuk-Ku."
+  },
+  {
+    "ayat": 42,
+    "arabic": "اِذْهَبْ اَنْتَ وَاَخُوْكَ بِاٰيٰتِيْ وَلَا تَنِيَا فِيْ ذِكْرِيْۚ",
+    "transliteration_en": "Izhab anta wa akhooka bi Aayaatee wa laa taniyaa fee zikree",
+    "transliteration_id": "Iżhab anta wa akhūka bi'āyātī wa lā taniyā fī żikrī.",
+    "translation_en": "Go, you and your brother, with My signs and do not slacken in My remembrance.",
+    "translation_id": "Pergilah engkau beserta saudaramu dengan (membawa) tanda-tanda (kekuasaan)-Ku dan janganlah kamu berdua lalai dalam mengingat-Ku."
+  },
+  {
+    "ayat": 43,
+    "arabic": "اِذْهَبَآ اِلٰى فِرْعَوْنَ اِنَّهٗ طَغٰىۚ",
+    "transliteration_en": "Izhabaaa ilaa Fir'awna innahoo taghaa",
+    "transliteration_id": "Iżhabā ilā fir‘auna innahū ṭagā.",
+    "translation_en": "Go, both of you, to Pharaoh. Indeed, he has transgressed.",
+    "translation_id": "Pergilah kamu berdua kepada Fir‘aun! Sesungguhnya dia telah melampaui batas."
+  },
+  {
+    "ayat": 44,
+    "arabic": "فَقُوْلَا لَهٗ قَوْلًا لَّيِّنًا لَّعَلَّهٗ يَتَذَكَّرُ اَوْ يَخْشٰى",
+    "transliteration_en": "Faqoolaa lahoo qawlal laiyinal la allahoo yatazakkkaru 'aw yakhshaa",
+    "transliteration_id": "Fa qūlā lahū qaulal layyinal la‘allahū yatażakkaru au yakhsyā.",
+    "translation_en": "And speak to him with gentle speech that perhaps he may be reminded or fear [Allah].\"",
+    "translation_id": "Berbicaralah kamu berdua kepadanya (Fir‘aun) dengan perkataan yang lemah lembut, mudah-mudahan dia sadar atau takut.”"
+  },
+  {
+    "ayat": 45,
+    "arabic": "قَالَا رَبَّنَآ اِنَّنَا نَخَافُ اَنْ يَّفْرُطَ عَلَيْنَآ اَوْ اَنْ يَّطْغٰى",
+    "transliteration_en": "Qaalaa Rabbanaaa innanaa nakhaafu ai yafruta 'alainaaa aw ai yatghaa",
+    "transliteration_id": "Qālā rabbanā innanā nakhāfu ay yafruṭa ‘alainā au ay yaṭgā.",
+    "translation_en": "They said, \"Our Lord, indeed we are afraid that he will hasten [punishment] against us or that he will transgress.\"",
+    "translation_id": "Keduanya berkata, “Wahai Tuhan kami, sesungguhnya kami khawatir dia akan segera menyiksa kami atau akan makin melampaui batas.”"
+  },
+  {
+    "ayat": 46,
+    "arabic": "قَالَ لَا تَخَافَآ اِنَّنِيْ مَعَكُمَآ اَسْمَعُ وَاَرٰى",
+    "transliteration_en": "Qaala laa takhaafaaa innanee ma'akumaa asma'u wa araa",
+    "transliteration_id": "Qāla lā takhāfā innanī ma‘akumā asma‘u wa arā.",
+    "translation_en": "[Allah] said, \"Fear not. Indeed, I am with you both; I hear and I see.",
+    "translation_id": "Dia (Allah) berfirman, “Janganlah kamu berdua khawatir! Sesungguhnya Aku bersama kamu berdua. Aku mendengar dan melihat."
+  },
+  {
+    "ayat": 47,
+    "arabic": "فَأْتِيٰهُ فَقُوْلَآ اِنَّا رَسُوْلَا رَبِّكَ فَاَرْسِلْ مَعَنَا بَنِيْٓ اِسْرَاۤءِيْلَ ەۙ وَلَا تُعَذِّبْهُمْۗ قَدْ جِئْنٰكَ بِاٰيَةٍ مِّنْ رَّبِّكَ ۗوَالسَّلٰمُ عَلٰى مَنِ اتَّبَعَ الْهُدٰى",
+    "transliteration_en": "Faatiyaahu faqoolaaa innaa Rasoolaa Rabbika fa arsil ma'anaa Banee Israaa'eela wa laa tu'azzibhum qad ji'naaka bi Aayatim mir Rabbika wassa laamu 'alaa manit taba'al hudaa",
+    "transliteration_id": "Fa'tiyāhu fa qūlā innā rasūlā rabbika fa arsil ma‘anā banī isrā'īl(a), wa lā tu‘ażżibhum, qad ji'nāka bi'āyatim mir rabbik(a), was-salāmu ‘alā manittaba‘al-hudā.",
+    "translation_en": "So go to him and say, 'Indeed, we are messengers of your Lord, so send with us the Children of Israel and do not torment them. We have come to you with a sign from your Lord. And peace will be upon he who follows the guidance.",
+    "translation_id": "Maka, datanglah kamu berdua kepadanya (Fir‘aun) dan katakanlah, ‘Sesungguhnya kami berdua adalah utusan Tuhanmu. Lepaskanlah Bani Israil bersama kami dan janganlah engkau menyiksa mereka. Sungguh, kami datang kepadamu dengan membawa bukti (atas kerasulan kami) dari Tuhanmu. Keselamatan itu dilimpahkan kepada orang yang mengikuti petunjuk."
+  },
+  {
+    "ayat": 48,
+    "arabic": "اِنَّا قَدْ اُوْحِيَ اِلَيْنَآ اَنَّ الْعَذَابَ عَلٰى مَنْ كَذَّبَ وَتَوَلّٰى",
+    "transliteration_en": "Innaa qad oohiya ilainaaa annnal 'azaaba 'alaa man kaz zaba wa tawalla",
+    "transliteration_id": "Innā qad ūḥiya ilainā annal-‘ażāba ‘alā man każżaba wa tawallā.",
+    "translation_en": "Indeed, it has been revealed to us that the punishment will be upon whoever denies and turns away.' \"",
+    "translation_id": "Sesungguhnya telah diwahyukan kepada kami bahwa siksa itu (ditimpakan) kepada siapa pun yang mendustakan (para rasul) dan berpaling (dari tuntunannya).’”"
+  },
+  {
+    "ayat": 49,
+    "arabic": "قَالَ فَمَنْ رَّبُّكُمَا يٰمُوْسٰى",
+    "transliteration_en": "Qaala famar Rabbu kumaa yaa Moosa",
+    "transliteration_id": "Qāla famar rabbukumā yā mūsā.",
+    "translation_en": "[Pharaoh] said, \"So who is the Lord of you two, O Moses?\"",
+    "translation_id": "Dia (Fir‘aun) berkata, “Siapakah Tuhanmu berdua, wahai Musa?”"
+  },
+  {
+    "ayat": 50,
+    "arabic": "قَالَ رَبُّنَا الَّذِيْٓ اَعْطٰى كُلَّ شَيْءٍ خَلْقَهٗ ثُمَّ هَدٰى",
+    "transliteration_en": "Qaala Rabbunal lazeee a'taa kulla shai'in khalqahoo summa hadaa",
+    "transliteration_id": "Qāla rabbunal-lażī a‘ṭā kulla syai'in khalqahū ṡumma hadā.",
+    "translation_en": "He said, \"Our Lord is He who gave each thing its form and then guided [it].\"",
+    "translation_id": "Dia (Musa) menjawab, “Tuhan kami ialah (Tuhan) yang telah menganugerahkan kepada segala sesuatu bentuk penciptaannya (yang layak), kemudian memberinya petunjuk.”"
+  }
+]

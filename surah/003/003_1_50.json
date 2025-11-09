@@ -1,0 +1,402 @@
+[
+  {
+    "ayat": 1,
+    "arabic": "الۤمّۤ",
+    "transliteration_en": "Alif-Laam-Meeem",
+    "transliteration_id": "Alif lām mīm.",
+    "translation_en": "Alif, Lam, Meem.",
+    "translation_id": "Alif Lām Mīm."
+  },
+  {
+    "ayat": 2,
+    "arabic": "اَللّٰهُ لَآ اِلٰهَ اِلَّا هُوَ الْحَيُّ الْقَيُّوْمُۗ",
+    "transliteration_en": "Allaahu laaa ilaaha illaa Huwal Haiyul Qaiyoom",
+    "transliteration_id": "Allāhu lā ilāha illā huwal-ḥayyul-qayyūm(u).",
+    "translation_en": "Allah - there is no deity except Him, the Ever-Living, the Sustainer of existence.",
+    "translation_id": "Allah, tidak ada tuhan selain Dia, Yang Maha Hidup lagi Maha Mengurus (makhluk-Nya) secara terus-menerus."
+  },
+  {
+    "ayat": 3,
+    "arabic": "نَزَّلَ عَلَيْكَ الْكِتٰبَ بِالْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَاَنْزَلَ التَّوْرٰىةَ وَالْاِنْجِيْلَۙ",
+    "transliteration_en": "Nazzala 'alaikal Kitaaba bilhaqqi musaddiqal limaa baina yadaihi wa anzalat Tawraata wal Injeel",
+    "transliteration_id": "Nazzala ‘alaikal-kitāba bil-ḥaqqi muṣaddiqal limā baina yadaihi wa anzalat-taurāta wal-injīl(a).",
+    "translation_en": "He has sent down upon you, [O Muhammad], the Book in truth, confirming what was before it. And He revealed the Torah and the Gospel.",
+    "translation_id": "Dia menurunkan kepadamu (Nabi Muhammad) Kitab (Al-Qur’an) dengan hak, membenarkan (kitab-kitab) sebelumnya, serta telah menurunkan Taurat dan Injil"
+  },
+  {
+    "ayat": 4,
+    "arabic": "مِنْ قَبْلُ هُدًى لِّلنَّاسِ وَاَنْزَلَ الْفُرْقَانَ ەۗ اِنَّ الَّذِيْنَ كَفَرُوْا بِاٰيٰتِ اللّٰهِ لَهُمْ عَذَابٌ شَدِيْدٌ ۗوَاللّٰهُ عَزِيْزٌ ذُو انْتِقَامٍۗ",
+    "transliteration_en": "Min qablu hudal linnaasi wa anzalal Furqaan; innallazeena kafaroo bi Aayaatil laahi lahum 'azaabun shadeed; wallaahu 'azeezun zun tiqaam",
+    "transliteration_id": "Min qablu hudal lin-nāsi wa anzalal-furqān(a), innal-lażīna kafarū bi āyātillāhi lahum ‘ażābun syadīd(un), wallāhu ‘azīzun żuntiqām(in).",
+    "translation_en": "Before, as guidance for the people. And He revealed the Qur'an. Indeed, those who disbelieve in the verses of Allah will have a severe punishment, and Allah is exalted in Might, the Owner of Retribution.",
+    "translation_id": "sebelum (turunnya Al-Qur’an) sebagai petunjuk bagi manusia, dan menurunkan Al-Furqān (pembeda yang hak dan yang batil). Sesungguhnya orang-orang yang kufur terhadap ayat-ayat Allah, bagi mereka azab yang sangat keras. Allah Maha Perkasa lagi mempunyai balasan (siksa)."
+  },
+  {
+    "ayat": 5,
+    "arabic": "اِنَّ اللّٰهَ لَا يَخْفٰى عَلَيْهِ شَيْءٌ فِى الْاَرْضِ وَلَا فِى السَّمَاۤءِ",
+    "transliteration_en": "Innal laaha laa yakhfaa 'alaihi shai'un fil ardi wa laa fis samaaa'",
+    "transliteration_id": "Innallāha lā yakhfā ‘alaihi syai'un fil-arḍi wa lā fis-samā'(i).",
+    "translation_en": "Indeed, from Allah nothing is hidden in the earth nor in the heaven.",
+    "translation_id": "Sesungguhnya bagi Allah tidak ada sesuatu pun yang tersembunyi di bumi dan tidak pula di langit."
+  },
+  {
+    "ayat": 6,
+    "arabic": "هُوَ الَّذِيْ يُصَوِّرُكُمْ فِى الْاَرْحَامِ كَيْفَ يَشَاۤءُ ۗ لَآ اِلٰهَ اِلَّا هُوَ الْعَزِيْزُ الْحَكِيْمُ",
+    "transliteration_en": "Huwal lazee yusawwirukum fil arhaami kaifa yashaaa'; laa ilaaha illaa Huwal 'Azeezul Hakeem",
+    "transliteration_id": "Huwal-lażī yuṣawwirukum fil-arḥāmi kaifa yasyā'(u), lā ilāha illā huwal-‘azīzul-ḥakīm(u).",
+    "translation_en": "It is He who forms you in the wombs however He wills. There is no deity except Him, the Exalted in Might, the Wise.",
+    "translation_id": "Dialah (Allah) yang membentuk kamu dalam rahim sebagaimana yang Dia kehendaki. Tidak ada tuhan selain Dia, Yang Maha Perkasa lagi Maha Bijaksana."
+  },
+  {
+    "ayat": 7,
+    "arabic": "هُوَ الَّذِيْٓ اَنْزَلَ عَلَيْكَ الْكِتٰبَ مِنْهُ اٰيٰتٌ مُّحْكَمٰتٌ هُنَّ اُمُّ الْكِتٰبِ وَاُخَرُ مُتَشٰبِهٰتٌ ۗ فَاَمَّا الَّذِيْنَ فِيْ قُلُوْبِهِمْ زَيْغٌ فَيَتَّبِعُوْنَ مَا تَشَابَهَ مِنْهُ ابْتِغَاۤءَ الْفِتْنَةِ وَابْتِغَاۤءَ تَأْوِيْلِهٖۚ وَمَا يَعْلَمُ تَأْوِيْلَهٗٓ  اِلَّا اللّٰهُ  ۘوَالرّٰسِخُوْنَ فِى الْعِلْمِ يَقُوْلُوْنَ اٰمَنَّا بِهٖۙ  كُلٌّ مِّنْ عِنْدِ رَبِّنَا ۚ وَمَا يَذَّكَّرُ اِلَّآ اُولُوا الْاَلْبَابِ",
+    "transliteration_en": "Huwal lazeee anzala 'alaikal Kitaaba minhu Aayaatum Muh kamaatun hunna Ummul Kitaabi wa ukharu Mutashaabihaatun faammal lazeena fee quloobihim ziyghun fa yattabi'oona ma tashaabaha minhubtighaaa 'alfitnati wabtighaaa'a taaweelih; wa maa ya'lamu taaweelahooo illal laah; warraasikhoona fil 'ilmi yaqooloona aamannaa bihee kullum min 'indi Rabbinaa; wa maa yazzakkaru illaaa ulul albaab",
+    "transliteration_id": "Huwal-lażī anzala ‘alaikal-kitāba minhu āyātum muḥkamātun hunna ummul-kitābi wa ukharu mutasyābihāt(un), fa'ammal-lażīna fī qulūbihim zaigun fayattabi‘ūna mā tasyābaha minhubtigā'al-fitnati wabtigā'a ta'wīlih(ī), wa mā ya‘lamu ta'wīlahū illallāh(u), war-rāsikhūna fil-‘ilmi yaqūlūna āmannā bih(ī), kullum min ‘indi rabbinā, wa mā yażżakkaru illā ulul-albāb(i).",
+    "translation_en": "It is He who has sent down to you, [O Muhammad], the Book; in it are verses [that are] precise - they are the foundation of the Book - and others unspecific. As for those in whose hearts is deviation [from truth], they will follow that of it which is unspecific, seeking discord and seeking an interpretation [suitable to them]. And no one knows its [true] interpretation except Allah. But those firm in knowledge say, \"We believe in it. All [of it] is from our Lord.\" And no one will be reminded except those of understanding.",
+    "translation_id": "Dialah (Allah) yang menurunkan Kitab (Al-Qur’an) kepadamu (Nabi Muhammad). Di antara ayat-ayatnya ada yang muhkamat, itulah pokok-pokok isi Kitab (Al-Qur’an) dan yang lain mutasyabihat. Adapun orang-orang yang dalam hatinya ada kecenderungan pada kesesatan, mereka mengikuti ayat-ayat yang mutasyabihat untuk menimbulkan fitnah (kekacauan dan keraguan) dan untuk mencari-cari takwilnya. Padahal, tidak ada yang mengetahui takwilnya, kecuali Allah. Orang-orang yang ilmunya mendalam berkata, “Kami beriman kepadanya (Al-Qur’an), semuanya dari Tuhan kami.” Tidak ada yang dapat mengambil pelajaran, kecuali ululalbab."
+  },
+  {
+    "ayat": 8,
+    "arabic": "رَبَّنَا لَا تُزِغْ قُلُوْبَنَا بَعْدَ اِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَّدُنْكَ رَحْمَةً ۚاِنَّكَ اَنْتَ الْوَهَّابُ",
+    "transliteration_en": "Rabbanaa laa tuzigh quloobanaa ba'da iz hadaitanaa wa hab lanaa mil ladunka rahmah; innaka antal Wahhaab",
+    "transliteration_id": "Rabbanā lā tuzig qulūbanā ba‘da iż hadaitanā wa hab lanā mil ladunka raḥmah(tan), innaka antal-wahhāb(u).",
+    "translation_en": "[Who say], \"Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower.",
+    "translation_id": "(Mereka berdoa,) “Wahai Tuhan kami, janganlah Engkau jadikan hati kami berpaling setelah Engkau berikan petunjuk kepada kami dan anugerahkanlah kepada kami rahmat dari hadirat-Mu. Sesungguhnya Engkau Maha Pemberi."
+  },
+  {
+    "ayat": 9,
+    "arabic": "رَبَّنَآ اِنَّكَ جَامِعُ النَّاسِ لِيَوْمٍ لَّا رَيْبَ فِيْهِ ۗاِنَّ اللّٰهَ لَا يُخْلِفُ الْمِيْعَادَ ࣖ",
+    "transliteration_en": "Rabbanaaa innaka jaami 'un-naasi li Yawmil laa raibafeeh; innal laaha laa yukhliful mee'aad",
+    "transliteration_id": "Rabbanā innaka jāmi‘un-nāsi liyaumil lā raiba fīh(i), innallāha lā yukhliful-mī‘ād(a).",
+    "translation_en": "Our Lord, surely You will gather the people for a Day about which there is no doubt. Indeed, Allah does not fail in His promise.\"",
+    "translation_id": "Wahai Tuhan kami, sesungguhnya Engkaulah yang mengumpulkan manusia pada hari yang tidak ada keraguan padanya.” Sesungguhnya Allah tidak menyalahi janji."
+  },
+  {
+    "ayat": 10,
+    "arabic": "اِنَّ الَّذِيْنَ كَفَرُوْا لَنْ تُغْنِيَ عَنْهُمْ اَمْوَالُهُمْ وَلَآ اَوْلَادُهُمْ مِّنَ اللّٰهِ شَيْـًٔا ۗوَاُولٰۤىِٕكَ هُمْ وَقُوْدُ النَّارِۗ",
+    "transliteration_en": "Innal lazeena kafaroo lan tughniya 'anhum amwaaluhum wa laaa awlaaduhum minal laahi shai'anw wa ulaaa'ika hum waqoodun Naar",
+    "transliteration_id": "Innal-lażīna kafarū lan tugniya ‘anhum amwāluhum wa lā aulāduhum minallāhi syai'ā(n), wa ulā'ika hum waqūdun-nār(i).",
+    "translation_en": "Indeed, those who disbelieve - never will their wealth or their children avail them against Allah at all. And it is they who are fuel for the Fire.",
+    "translation_id": "Sesungguhnya orang-orang yang kufur, tidak akan berguna bagi mereka sedikit pun harta benda dan anak-anak mereka (untuk menyelamatkan diri) dari (azab) Allah. Mereka itulah bahan bakar api neraka."
+  },
+  {
+    "ayat": 11,
+    "arabic": "كَدَأْبِ اٰلِ فِرْعَوْنَۙ وَالَّذِيْنَ مِنْ قَبْلِهِمْۗ  كَذَّبُوْا بِاٰيٰتِنَاۚ فَاَخَذَهُمُ اللّٰهُ بِذُنُوْبِهِمْ ۗ وَاللّٰهُ شَدِيْدُ الْعِقَابِ",
+    "transliteration_en": "Kadaabi Aali Fir'awna wallazeena min qablihim; kazzaboo bi Aayaatinaa fa akhazahumul laahu bizunoo bihim; wallaahu shadeedul 'iqaab",
+    "transliteration_id": "Kada'bi āli fir‘aun(a), wal-lażīna min qablihim, każżabū bi'āyātinā, fa'akhażahumullāhu biżunūbihim, wallāhu syadīdul-‘iqāb(i).",
+    "translation_en": "[Theirs is] like the custom of the people of Pharaoh and those before them. They denied Our signs, so Allah seized them for their sins. And Allah is severe in penalty.",
+    "translation_id": "(Keadaan mereka) seperti keadaan pengikut Fir‘aun dan orang-orang sebelum mereka. Mereka mendustakan ayat-ayat Kami. Oleh sebab itu, Allah menyiksa mereka karena dosa-dosanya. Allah sangat keras hukuman-Nya."
+  },
+  {
+    "ayat": 12,
+    "arabic": "قُلْ لِّلَّذِيْنَ كَفَرُوْا سَتُغْلَبُوْنَ وَتُحْشَرُوْنَ اِلٰى جَهَنَّمَ ۗ وَبِئْسَ الْمِهَادُ",
+    "transliteration_en": "Qul lillazeena kafaroosatughlaboona wa tuhsharoona ilaa jahannam; wa bi'sal mihaad",
+    "transliteration_id": "Qul lil-lażīna kafarū satuglabūna wa tuḥsyarūna ilā jahannam(a), wa bi'sal-mihād(u).",
+    "translation_en": "Say to those who disbelieve, \"You will be overcome and gathered together to Hell, and wretched is the resting place.\"",
+    "translation_id": "Katakanlah (Nabi Muhammad) kepada orang-orang yang kufur, “Kamu (pasti) akan dikalahkan dan digiring ke dalam (neraka) Jahanam. Itulah seburuk-buruk tempat tinggal.”"
+  },
+  {
+    "ayat": 13,
+    "arabic": "قَدْ كَانَ لَكُمْ اٰيَةٌ فِيْ فِئَتَيْنِ الْتَقَتَا ۗفِئَةٌ تُقَاتِلُ فِيْ سَبِيْلِ اللّٰهِ وَاُخْرٰى كَافِرَةٌ يَّرَوْنَهُمْ مِّثْلَيْهِمْ رَأْيَ الْعَيْنِ ۗوَاللّٰهُ يُؤَيِّدُ بِنَصْرِهٖ مَنْ يَّشَاۤءُ ۗ اِنَّ فِيْ ذٰلِكَ لَعِبْرَةً لِّاُولِى الْاَبْصَارِ",
+    "transliteration_en": "Qad kaana lakum Aayatun fee fi'atainil taqataa fi'atun tuqaatilu fee sabeelil laahi wa ukhraa kaafiratuny yarawnahum mislaihim raayal 'ayn; wallaahu yu'ayyidu bi nasrihee mai yashaaa'; innaa fee zaalika la 'ibratal li ulil absaar",
+    "transliteration_id": "Qad kāna lakum āyatun fī fi'atainil taqatā, fi'atun tuqātilu fī sabīlillāhi wa ukhrā kāfiratuy yaraunahum miṡlaihim ra'yal-‘ain(i), wallāhu yu'ayyidu binaṣrihī may yasyā'(u), inna fī żālika la‘ibratal li'ulil-abṣār(i).",
+    "translation_en": "Already there has been for you a sign in the two armies which met - one fighting in the cause of Allah and another of disbelievers. They saw them [to be] twice their [own] number by [their] eyesight. But Allah supports with His victory whom He wills. Indeed in that is a lesson for those of vision.",
+    "translation_id": "Sungguh, telah ada tanda (bukti) bagimu pada dua golongan yang bertemu (dalam pertempuran. Satu golongan berperang di jalan Allah dan (golongan) yang lain kafir yang melihat dengan mata kepala bahwa mereka (golongan muslim) dua kali lipat jumlahnya. Allah menguatkan siapa yang Dia kehendaki dengan pertolongan-Nya. Sesungguhnya pada yang demikian itu benar-benar terdapat pelajaran bagi orang-orang yang mempunyai penglihatan (mata hati)."
+  },
+  {
+    "ayat": 14,
+    "arabic": "زُيِّنَ لِلنَّاسِ حُبُّ الشَّهَوٰتِ مِنَ النِّسَاۤءِ وَالْبَنِيْنَ وَالْقَنَاطِيْرِ الْمُقَنْطَرَةِ مِنَ الذَّهَبِ وَالْفِضَّةِ وَالْخَيْلِ الْمُسَوَّمَةِ وَالْاَنْعَامِ وَالْحَرْثِ ۗ ذٰلِكَ مَتَاعُ الْحَيٰوةِ الدُّنْيَا ۗوَاللّٰهُ عِنْدَهٗ حُسْنُ الْمَاٰبِ",
+    "transliteration_en": "Zuyyina linnaasi hubbush shahawaati minannisaaa'i wal baneena walqanaateeril muqantarati minaz zahabi walfiddati walkhailil musawwamati wal an'aami walhars; zaalika mataa'ul hayaatid dunyaa wallaahu 'indahoo husnul ma-aab",
+    "transliteration_id": "Zuyyina lin-nāsi ḥubbusy-syahawāti minan-nisā'i wal-banīna wal-qanāṭīril-muqanṭarati minaż-żahabi wal-fiḍḍati wal-khailil-musawwamati wal-an‘āmi wal-ḥarṡ(i), żālika matā‘ul-ḥayātid-dun-yā, wallāhu ‘indahū ḥusnul-ma'āb(i).",
+    "translation_en": "Beautified for people is the love of that which they desire - of women and sons, heaped-up sums of gold and silver, fine branded horses, and cattle and tilled land. That is the enjoyment of worldly life, but Allah has with Him the best return.",
+    "translation_id": "Dijadikan indah bagi manusia kecintaan pada aneka kesenangan yang berupa perempuan, anak-anak, harta benda yang bertimbun tak terhingga berupa emas, perak, kuda pilihan, binatang ternak, dan sawah ladang. Itulah kesenangan hidup di dunia dan di sisi Allahlah tempat kembali yang baik."
+  },
+  {
+    "ayat": 15,
+    "arabic": "۞ قُلْ اَؤُنَبِّئُكُمْ بِخَيْرٍ مِّنْ ذٰلِكُمْ ۗ لِلَّذِيْنَ اتَّقَوْا عِنْدَ رَبِّهِمْ جَنّٰتٌ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهٰرُ خٰلِدِيْنَ فِيْهَا وَاَزْوَاجٌ مُّطَهَّرَةٌ وَّرِضْوَانٌ مِّنَ اللّٰهِ ۗ وَاللّٰهُ بَصِيْرٌۢ بِالْعِبَادِۚ",
+    "transliteration_en": "Qul a'unabbi 'ukum bikhairim min zaalikum; lillazeenat taqaw 'inda Rabbihim jannaatun tajree min tahtihal anhaaru khaalideena feehaa wa azwaajum mutahharatunw wa ridwaanum minal laah; wallaahu baseerum bil'ibaad",
+    "transliteration_id": "Qul a'unabbi'ukum bikhairim min żālikum, lil-lażīnattaqau ‘inda rabbihim jannātun tajrī min taḥtihal-anhāru khālidīna fīhā wa azwājum muṭahharatuw wa riḍwānum minallāh(i), wallāhu baṣīrum bil-‘ibād(i).",
+    "translation_en": "Say, \"Shall I inform you of [something] better than that? For those who fear Allah will be gardens in the presence of their Lord beneath which rivers flow, wherein they abide eternally, and purified spouses and approval from Allah. And Allah is Seeing of [His] servants -",
+    "translation_id": "Katakanlah, “Maukah aku beri tahukan kepadamu sesuatu yang lebih baik daripada yang demikian itu?” Untuk orang-orang yang bertakwa, di sisi Tuhan mereka ada surga-surga yang mengalir di bawahnya sungai-sungai. Mereka kekal di dalamnya dan (untuk mereka) pasangan yang disucikan serta rida Allah. Allah Maha Melihat hamba-hamba-Nya."
+  },
+  {
+    "ayat": 16,
+    "arabic": "اَلَّذِيْنَ يَقُوْلُوْنَ رَبَّنَآ اِنَّنَآ اٰمَنَّا فَاغْفِرْ لَنَا ذُنُوْبَنَا وَقِنَا عَذَابَ النَّارِۚ",
+    "transliteration_en": "Allazeena yaqooloona Rabbanaaa innanaaa aamannaa faghfir lanaa zunoobanaa wa qinaa 'azaaban Naar",
+    "transliteration_id": "Allażīna yaqūlūna rabbanā innanā āmannā fagfir lanā żunūbanā wa qinā ‘ażāban-nār(i).",
+    "translation_en": "Those who say, \"Our Lord, indeed we have believed, so forgive us our sins and protect us from the punishment of the Fire,\"",
+    "translation_id": "(Yaitu) orang-orang yang berdoa, “Wahai Tuhan kami, sesungguhnya kami benar-benar telah beriman. Maka, ampunilah dosa-dosa kami dan selamatkanlah kami dari azab neraka.”"
+  },
+  {
+    "ayat": 17,
+    "arabic": "اَلصّٰبِرِيْنَ وَالصّٰدِقِيْنَ وَالْقٰنِتِيْنَ وَالْمُنْفِقِيْنَ وَالْمُسْتَغْفِرِيْنَ بِالْاَسْحَارِ",
+    "transliteration_en": "Assaabireena wassaa diqeena walqaaniteena walmunfiqeena walmus taghfireena bil ashaar",
+    "transliteration_id": "Aṣ-ṣābirīna waṣ-ṣādiqīna wal-qāniṭīna wal-munfiqīna wal-mustagfirīna bil-asḥār(i).",
+    "translation_en": "The patient, the true, the obedient, those who spend [in the way of Allah], and those who seek forgiveness before dawn.",
+    "translation_id": "(Juga) orang-orang yang sabar, benar, taat, dan berinfak, serta memohon ampunan pada akhir malam."
+  },
+  {
+    "ayat": 18,
+    "arabic": "شَهِدَ اللّٰهُ اَنَّهٗ لَآ اِلٰهَ اِلَّا هُوَۙ وَالْمَلٰۤىِٕكَةُ وَاُولُوا الْعِلْمِ قَاۤىِٕمًاۢ بِالْقِسْطِۗ  لَآ اِلٰهَ اِلَّا هُوَ الْعَزِيْزُ الْحَكِيْمُ",
+    "transliteration_en": "Shahidal laahu annahoo laa ilaaha illaa Huwa walmalaaa'ikatu wa ulul 'ilmi qaaa'imam bilqist; laaa ilaaha illaa Huwal 'Azeezul Hakeem",
+    "transliteration_id": "Syahidallāhu annahū lā ilāha illā huw(a), wal-malā'ikatu wa ulul-‘ilmi qā'imam bil-qisṭ(i), lā ilāha illā huwal-‘azīzul-ḥakīm(u).",
+    "translation_en": "Allah witnesses that there is no deity except Him, and [so do] the angels and those of knowledge - [that He is] maintaining [creation] in justice. There is no deity except Him, the Exalted in Might, the Wise.",
+    "translation_id": "Allah menyatakan bahwa tidak ada tuhan selain Dia, (Allah) yang menegakkan keadilan. (Demikian pula) para malaikat dan orang berilmu. Tidak ada tuhan selain Dia, Yang Maha Perkasa lagi Maha Bijaksana."
+  },
+  {
+    "ayat": 19,
+    "arabic": "اِنَّ الدِّيْنَ عِنْدَ اللّٰهِ الْاِسْلَامُ ۗ وَمَا اخْتَلَفَ الَّذِيْنَ اُوْتُوا الْكِتٰبَ اِلَّا مِنْۢ بَعْدِ مَا جَاۤءَهُمُ الْعِلْمُ بَغْيًاۢ بَيْنَهُمْ ۗوَمَنْ يَّكْفُرْ بِاٰيٰتِ اللّٰهِ فَاِنَّ اللّٰهَ سَرِيْعُ الْحِسَابِ",
+    "transliteration_en": "Innad deena 'indal laahil Islaam; wa makhtalafal lazeena ootul Kitaaba illaa mim ba'di maa jaaa'ahumul 'ilmu baghyam bainahum; wa mai yakfur bi Aayaatil laahi fa innal laaha saree'ul hisaab",
+    "transliteration_id": "Innad-dīna ‘indallāhil-islām(u), wa makhtalafal-lażīna ūtul-kitāba illā mim ba‘di mā jā'ahumul-‘ilmu bagyam bainahum, wa may yakfur bi'āyātillāhi fa innallāha sarī‘ul-ḥisāb(i).",
+    "translation_en": "Indeed, the religion in the sight of Allah is Islam. And those who were given the Scripture did not differ except after knowledge had come to them - out of jealous animosity between themselves. And whoever disbelieves in the verses of Allah, then indeed, Allah is swift in [taking] account.",
+    "translation_id": "Sesungguhnya agama (yang diridai) di sisi Allah ialah Islam. Orang-orang yang telah diberi kitab tidak berselisih, kecuali setelah datang pengetahuan kepada mereka karena kedengkian di antara mereka. Siapa yang kufur terhadap ayat-ayat Allah, sesungguhnya Allah sangat cepat perhitungan(-Nya)."
+  },
+  {
+    "ayat": 20,
+    "arabic": "فَاِنْ حَاۤجُّوْكَ فَقُلْ اَسْلَمْتُ وَجْهِيَ لِلّٰهِ وَمَنِ اتَّبَعَنِ ۗوَقُلْ لِّلَّذِيْنَ اُوْتُوا الْكِتٰبَ وَالْاُمِّيّٖنَ ءَاَسْلَمْتُمْ ۗ فَاِنْ اَسْلَمُوْا فَقَدِ اهْتَدَوْا ۚ وَاِنْ تَوَلَّوْا فَاِنَّمَا عَلَيْكَ الْبَلٰغُ ۗ وَاللّٰهُ بَصِيْرٌۢ بِالْعِبَادِ ࣖ",
+    "transliteration_en": "Fa in haaajjooka faqul aslamtu wajhiya lillaahi wa manit taba'an; wa qul lillazeena ootul Kitaaba wal ummiyyeena 'a-aslamtum; fa in aslamoo faqadih tadaw wa in tawallaw fa innamaa 'alaikal balaagh; wallaahu baseerum bil 'ibaad",
+    "transliteration_id": "Fa'in ḥājjūka fa qul aslamtu wajhiya lillāhi wa manittaba‘an(i), wa qul lil-lażīna ūtul-kitāba wal-ummiyyīna a'aslamtum, fa'in aslamū faqadihtadau, wa in tawallau fa'innamā ‘alaikal-balāg(u), wallāhu baṣīrum bil-‘ibād(i).",
+    "translation_en": "So if they argue with you, say, \"I have submitted myself to Allah [in Islam], and [so have] those who follow me.\" And say to those who were given the Scripture and [to] the unlearned, \"Have you submitted yourselves?\" And if they submit [in Islam], they are rightly guided; but if they turn away - then upon you is only the [duty of] notification. And Allah is Seeing of [His] servants.",
+    "translation_id": "Jika mereka mendebat engkau (Nabi Muhammad) katakanlah, “Aku berserah diri kepada Allah dan (demikian pula) orang-orang yang mengikutiku.” Katakanlah kepada orang-orang (Yahudi dan Nasrani) yang telah diberi Kitab (Taurat dan Injil) dan kepada orang-orang yang umi, “Sudahkah kamu masuk Islam?” Jika mereka telah masuk Islam, sungguh mereka telah mendapat petunjuk. Akan tetapi, jika mereka berpaling, sesungguhnya kewajibanmu hanyalah menyampaikan. Allah Maha Melihat hamba-hamba-Nya."
+  },
+  {
+    "ayat": 21,
+    "arabic": "اِنَّ الَّذِيْنَ يَكْفُرُوْنَ بِاٰيٰتِ اللّٰهِ وَيَقْتُلُوْنَ النَّبِيّٖنَ بِغَيْرِحَقٍّۖ وَّيَقْتُلُوْنَ الَّذِيْنَ يَأْمُرُوْنَ بِالْقِسْطِ مِنَ النَّاسِۙ فَبَشِّرْهُمْ بِعَذَابٍ اَلِيْمٍ",
+    "transliteration_en": "Innal lazeena yakfuroona bi Aayaatil laahi wa yaqtuloonan Nabiyyeena bighairi haqqinw wa yaqtuloonal lazeena yaamuroona bilqisti minannaasi fabashirhum bi'azaabin aleem",
+    "transliteration_id": "Innal-lażīna yakfurūna bi'āyātillāhi wa yaqtulūnan nabiyyīna bigairi ḥaqq(in), wa yaqtulūnal-lażīna ya'murūna bil-qisṭi minan-nās(i), fabasysyirhum bi‘ażābin alīm(in).",
+    "translation_en": "Those who disbelieve in the signs of Allah and kill the prophets without right and kill those who order justice from among the people - give them tidings of a painful punishment.",
+    "translation_id": "Sesungguhnya orang-orang yang kufur terhadap ayat-ayat Allah, membunuh para nabi tanpa hak (alasan yang benar), dan membunuh manusia yang memerintahkan keadilan, sampaikanlah kepada mereka kabar ‘gembira’ tentang azab yang pedih."
+  },
+  {
+    "ayat": 22,
+    "arabic": "اُولٰۤىِٕكَ الَّذِيْنَ حَبِطَتْ اَعْمَالُهُمْ فِى الدُّنْيَا وَالْاٰخِرَةِ ۖ وَمَا لَهُمْ مِّنْ نّٰصِرِيْنَ",
+    "transliteration_en": "Ulaaa'ikal lazeena habitat a'maaluhum fid dunyaa wal Aaakhirati wa maa lahum min naasireen",
+    "transliteration_id": "Ulā'ikal-lażīna ḥabiṭat a‘māluhum fid-dun-yā wal-ākhirah(ti), wa mā lahum min nāṣirīn(a).",
+    "translation_en": "They are the ones whose deeds have become worthless in this world and the Hereafter, and for them there will be no helpers.",
+    "translation_id": "Mereka itulah orang-orang yang amalnya sia-sia di dunia dan di akhirat dan tidak ada bagi mereka satu penolong pun."
+  },
+  {
+    "ayat": 23,
+    "arabic": "اَلَمْ تَرَ اِلَى الَّذِيْنَ اُوْتُوْا نَصِيْبًا مِّنَ الْكِتٰبِ يُدْعَوْنَ اِلٰى كِتٰبِ اللّٰهِ لِيَحْكُمَ بَيْنَهُمْ ثُمَّ يَتَوَلّٰى فَرِيْقٌ مِّنْهُمْ وَهُمْ مُّعْرِضُوْنَ",
+    "transliteration_en": "Alam tara ilal lazeena ootoo naseebam minal Kitaabi yud'awna ilaa Kitaabil laahi liyahkuma bainahum summa yatawallaa fareequm minhum wa hum mu'ridoon",
+    "transliteration_id": "Alam tara ilal-lażīna ūtū naṣībam minal-kitābi yud‘auna ilā kitābillāhi liyaḥkuma bainahum ṡumma yatawallā farīqum minhum wa hum mu‘riḍūn(a).",
+    "translation_en": "Do you not consider, [O Muhammad], those who were given a portion of the Scripture? They are invited to the Scripture of Allah that it should arbitrate between them; then a party of them turns away, and they are refusing.",
+    "translation_id": "Tidakkah engkau (Nabi Muhammad) memerhatikan orang-orang (Yahudi) yang telah diberi bagian (pengetahuan) kitab (Taurat)? Mereka diajak (berpegang) pada kitab Allah untuk memutuskan (perkara) di antara mereka, kemudian segolongan dari mereka berpaling dan menolak (kebenaran)."
+  },
+  {
+    "ayat": 24,
+    "arabic": "ذٰلِكَ بِاَنَّهُمْ قَالُوْا لَنْ تَمَسَّنَا النَّارُ اِلَّآ اَيَّامًا مَّعْدُوْدٰتٍ ۖ وَّغَرَّهُمْ فِيْ دِيْنِهِمْ مَّا كَانُوْا يَفْتَرُوْنَ",
+    "transliteration_en": "Zaalika bi annahum qaaloo lan tamassanan naaru illaaa ayyaamam ma'doodaatinw wa gharrahum fee deenihim maa kaanoo yaftaroon",
+    "transliteration_id": "Żālika bi'annahum qālū lan tamassanan nāru illā ayyāmam ma‘dūdāt(in), wa garrahum fī dīnihim mā kānū yaftarūn(a).",
+    "translation_en": "That is because they say, \"Never will the Fire touch us except for [a few] numbered days,\" and [because] they were deluded in their religion by what they were inventing.",
+    "translation_id": "Demikian itu disebabkan bahwa mereka berkata, “Api neraka tidak akan menyentuh kami, kecuali beberapa hitungan hari saja.” Mereka teperdaya dalam agamanya oleh apa yang selalu mereka ada-adakan."
+  },
+  {
+    "ayat": 25,
+    "arabic": "فَكَيْفَ اِذَا جَمَعْنٰهُمْ لِيَوْمٍ لَّا رَيْبَ فِيْهِۗ وَوُفِّيَتْ كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُوْنَ",
+    "transliteration_en": "Fakaifa izaa jama'naahum li Yawmil laa raiba fee wa wuffiyat kullu nafsim maa kasabat wa hum laa yuzlamoon",
+    "transliteration_id": "Fakaifa iżā jama‘nāhum liyaumil lā raiba fīh(i), wa wuffiyat kullu nafsim mā kasabat wa hum lā yuẓlamūn(a).",
+    "translation_en": "So how will it be when We assemble them for a Day about which there is no doubt? And each soul will be compensated [in full for] what it earned, and they will not be wronged.",
+    "translation_id": "Bagaimanakah (nanti) jika mereka Kami kumpulkan pada hari (Kiamat) yang tidak ada keraguan padanya dan setiap jiwa diberi balasan yang sempurna sesuai dengan apa yang telah dikerjakannya tanpa dizalimi?"
+  },
+  {
+    "ayat": 26,
+    "arabic": "قُلِ اللّٰهُمَّ مٰلِكَ الْمُلْكِ تُؤْتِى الْمُلْكَ مَنْ تَشَاۤءُ وَتَنْزِعُ الْمُلْكَ مِمَّنْ تَشَاۤءُۖ وَتُعِزُّ مَنْ تَشَاۤءُ وَتُذِلُّ مَنْ تَشَاۤءُ ۗ بِيَدِكَ الْخَيْرُ ۗ اِنَّكَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ",
+    "transliteration_en": "Qulil laahumma Maalikal Mulki tu'til mulka man tashaaa'u wa tanzi'ulmulka mimman tashhaaa'u wa tu'izzu man tashaaa'u wa tuzillu man tashaaa'u biyadikal khairu innaka 'alaa kulli shai'in Qadeer",
+    "transliteration_id": "Qulillāhumma mālikal-mulki tu'til-mulka man tasyā'u wa tanzi‘ul-mulka mim man tasyā'(u), wa tu‘izzu man tasyā'u wa tużillu man tasyā'(u), biyadikal-khair(u), innaka ‘alā kulli syai'in qadīr(un).",
+    "translation_en": "Say, \"O Allah, Owner of Sovereignty, You give sovereignty to whom You will and You take sovereignty away from whom You will. You honor whom You will and You humble whom You will. In Your hand is [all] good. Indeed, You are over all things competent.",
+    "translation_id": "Katakanlah (Nabi Muhammad), “Wahai Allah, Pemilik kekuasaan, Engkau berikan kekuasaan kepada siapa pun yang Engkau kehendaki dan Engkau cabut kekuasaan dari siapa yang Engkau kehendaki. Engkau muliakan siapa yang Engkau kehendaki dan Engkau hinakan siapa yang Engkau kehendaki. Di tangan-Mulah segala kebajikan. Sesungguhnya Engkau Maha Kuasa atas segala sesuatu."
+  },
+  {
+    "ayat": 27,
+    "arabic": "تُوْلِجُ الَّيْلَ فِى النَّهَارِ وَتُوْلِجُ النَّهَارَ فِى الَّيْلِ وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ وَتَرْزُقُ مَنْ تَشَاۤءُ بِغَيْرِ حِسَابٍ",
+    "transliteration_en": "Toolijul laila fin nahaari wa toolijun nahaara fil laili wa tukhrijul haiya minalmaiyiti wa tukhrijulo maiyita minal haiyi wa tarzuqu man tashaaa'u bighari hisab",
+    "transliteration_id": "Tūlijul-laila fin-nahāri wa tūlijun-nahāra fil-laili wa tukhrijul-ḥayya minal-mayyiti wa tukhrijul-mayyita minal-ḥayyi wa tarzuqu man tasyā'u bigairi ḥisāb(in).",
+    "translation_en": "You cause the night to enter the day, and You cause the day to enter the night; and You bring the living out of the dead, and You bring the dead out of the living. And You give provision to whom You will without account.\"",
+    "translation_id": "Engkau masukkan malam ke dalam siang dan Engkau masukkan siang ke dalam malam. Engkau keluarkan yang hidup dari yang mati dan Engkau keluarkan yang mati dari yang hidup. Engkau berikan rezeki kepada siapa yang Engkau kehendaki tanpa perhitungan.”"
+  },
+  {
+    "ayat": 28,
+    "arabic": "لَا يَتَّخِذِ الْمُؤْمِنُوْنَ الْكٰفِرِيْنَ اَوْلِيَاۤءَ مِنْ دُوْنِ الْمُؤْمِنِيْنَۚ وَمَنْ يَّفْعَلْ ذٰلِكَ فَلَيْسَ مِنَ اللّٰهِ فِيْ شَيْءٍ اِلَّآ اَنْ تَتَّقُوْا مِنْهُمْ تُقٰىةً ۗ وَيُحَذِّرُكُمُ اللّٰهُ نَفْسَهٗ ۗ وَاِلَى اللّٰهِ الْمَصِيْرُ",
+    "transliteration_en": "Laa yattakhizil mu'minoonal kaafireena awliyaaa'a min doonil mu'mineena wa mai yaf'al zaalika falaisa minal laahi fee shai'in illaaa an tattaqoo minhum tuqaah; wa yuhazzirukumul laahu nafsah; wa ilal laahil maseer",
+    "transliteration_id": "Lā yattakhiżil-mu'minūnal-kāfirīna auliyā'a min dūnil-mu'minīn(a), wa may yaf‘al żālika falaisa minallāhi fī syai'(in), illā an tattaqū minhum tuqāh(tan), wa yuḥażżirukumullāhu nafsah(ū), wa ilallāhil-maṣīr(u).",
+    "translation_en": "Let not believers take disbelievers as allies rather than believers. And whoever [of you] does that has nothing with Allah, except when taking precaution against them in prudence. And Allah warns you of Himself, and to Allah is the [final] destination.",
+    "translation_id": "Janganlah orang-orang mukmin menjadikan orang kafir sebagai para wali dengan mengesampingkan orang-orang mukmin. Siapa yang melakukan itu, hal itu sama sekali bukan dari (ajaran) Allah, kecuali untuk menjaga diri dari sesuatu yang kamu takuti dari mereka. Allah memperingatkan kamu tentang diri-Nya (siksa-Nya). Hanya kepada Allah tempat kembali."
+  },
+  {
+    "ayat": 29,
+    "arabic": "قُلْ اِنْ تُخْفُوْا مَا فِيْ صُدُوْرِكُمْ اَوْ تُبْدُوْهُ يَعْلَمْهُ اللّٰهُ ۗوَيَعْلَمُ مَا فِى السَّمٰوٰتِ وَمَا فِى الْاَرْضِۗ وَاللّٰهُ  عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ",
+    "transliteration_en": "Qul in tukhfoo maa fee sudoorikum aw tubdoohu ya'lamhul laah; wa ya'lamu maa fis samaawaati wa maa fil ard; wallaahu 'alaa kulli shai'in Qadeer",
+    "transliteration_id": "Qul in tukhfū mā fī ṣudūrikum  au tubdūhu ya‘lamhullāh(u), wa ya‘lamu mā fis-samāwāti wa mā fil-arḍ(i), wallāhu ‘alā kulli syai'in qadīr(un).",
+    "translation_en": "Say, \"Whether you conceal what is in your breasts or reveal it, Allah knows it. And He knows that which is in the heavens and that which is on the earth. And Allah is over all things competent.",
+    "translation_id": "Katakanlah (Nabi Muhammad), “Jika kamu menyembunyikan apa yang ada dalam hatimu atau kamu menampakkannya, Allah pasti mengetahuinya.” Dia mengetahui apa yang ada di langit dan apa yang ada di bumi. Allah Maha Kuasa atas segala sesuatu."
+  },
+  {
+    "ayat": 30,
+    "arabic": "يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَرًا  ۛوَمَا عَمِلَتْ مِنْ سُوْۤءٍ ۛ تَوَدُّ لَوْ اَنَّ بَيْنَهَا وَبَيْنَهٗٓ اَمَدًاۢ بَعِيْدًا ۗوَيُحَذِّرُكُمُ اللّٰهُ نَفْسَهٗ ۗوَاللّٰهُ رَءُوْفٌۢ بِالْعِبَادِ ࣖ",
+    "transliteration_en": "Yawma tajidu kullu nafsim maa'amilat min khairim muhdaranw wa maa 'amilat min sooo'in tawaddu law anna bainahaa wa bainahooo amadam ba'eedaa; wa yuhazzirukumul laahu nafsah; wallaahu ra'oofum bil'ibaad",
+    "transliteration_id": "Yauma tajidu kullu nafsim mā ‘amilat min khairim muḥḍarā(n), wa mā ‘amilat min sū'(in), tawaddu lau anna bainahā wa bainahū amadam ba‘īdā(n), wa yuḥażżirukumullāhu nafsah(ū), wallāhu ra'ūfum bil-‘ibād(i).",
+    "translation_en": "The Day every soul will find what it has done of good present [before it] and what it has done of evil, it will wish that between itself and that [evil] was a great distance. And Allah warns you of Himself, and Allah is Kind to [His] servants.\"",
+    "translation_id": "(Ingatlah) pada hari (ketika) setiap jiwa mendapatkan (balasan) atas kebajikan yang telah dikerjakannya dihadirkan, (begitu juga balasan) atas kejahatan yang telah dia kerjakan. Dia berharap seandainya ada jarak yang jauh antara dia dan hari itu. Allah memperingatkan kamu akan (siksa)-Nya. Allah Maha Penyayang terhadap hamba-hamba-Nya."
+  },
+  {
+    "ayat": 31,
+    "arabic": "قُلْ اِنْ كُنْتُمْ تُحِبُّوْنَ اللّٰهَ فَاتَّبِعُوْنِيْ يُحْبِبْكُمُ اللّٰهُ وَيَغْفِرْ لَكُمْ ذُنُوْبَكُمْ ۗ وَاللّٰهُ غَفُوْرٌ رَّحِيْمٌ",
+    "transliteration_en": "Qul in kuntum tuhibboonal laaha fattabi' oonee yuhbibkumul laahu wa yaghfir lakum zunoobakum; wallaahu Ghafoorur Raheem",
+    "transliteration_id": "Qul in kuntum tuḥibbūnallāha fattabi‘ūnī yuḥbibkumullāhu wa yagfir lakum żunūbakum, wallāhu gafūrur raḥīm(un).",
+    "translation_en": "Say, [O Muhammad], \"If you should love Allah, then follow me, [so] Allah will love you and forgive you your sins. And Allah is Forgiving and Merciful.\"",
+    "translation_id": "Katakanlah (Nabi Muhammad), “Jika kamu mencintai Allah, ikutilah aku, niscaya Allah akan mencintaimu dan mengampuni dosa-dosamu.” Allah Maha Pengampun lagi Maha Penyayang."
+  },
+  {
+    "ayat": 32,
+    "arabic": "قُلْ اَطِيْعُوا اللّٰهَ وَالرَّسُوْلَ ۚ فَاِنْ تَوَلَّوْا فَاِنَّ اللّٰهَ لَا يُحِبُّ الْكٰفِرِيْنَ",
+    "transliteration_en": "Qul atee'ul laaha war Rasoola fa in tawallaw fa innal laaha laa yuhibbul kaafireen",
+    "transliteration_id": "Qul aṭī‘ullāha war-rasūl(a), fa'in tawallau fa innallāha lā yuḥibbul-kāfirīn(a).",
+    "translation_en": "Say, \"Obey Allah and the Messenger.\" But if they turn away - then indeed, Allah does not like the disbelievers.",
+    "translation_id": "Katakanlah (Nabi Muhammad), “Taatilah Allah dan Rasul(-Nya). Jika kamu berpaling, sesungguhnya Allah tidak menyukai orang-orang kafir.”"
+  },
+  {
+    "ayat": 33,
+    "arabic": "۞ اِنَّ اللّٰهَ اصْطَفٰىٓ اٰدَمَ وَنُوْحًا وَّاٰلَ اِبْرٰهِيْمَ وَاٰلَ عِمْرٰنَ عَلَى الْعٰلَمِيْنَۙ",
+    "transliteration_en": "Innal laahas tafaaa Aadama wa Noohanw wa Aala Ibraaheema wa Aala Imraana 'alal 'aalameen",
+    "transliteration_id": "Innallāhaṣṭafā ādama wa nūḥaw wa āla ibrāhīma wa āla ‘imrāna ‘alal-‘ālamīn(a).",
+    "translation_en": "Indeed, Allah chose Adam and Noah and the family of Abraham and the family of 'Imran over the worlds -",
+    "translation_id": "Sesungguhnya Allah telah memilih Adam, Nuh, keluarga Ibrahim, dan keluarga Imran atas seluruh alam (manusia pada zamannya masing-masing)."
+  },
+  {
+    "ayat": 34,
+    "arabic": "ذُرِّيَّةً ۢ بَعْضُهَا مِنْۢ بَعْضٍۗ وَاللّٰهُ سَمِيْعٌ عَلِيْمٌۚ",
+    "transliteration_en": "Zurriyyatam ba'duhaa mim ba'd; wallaahu Samee'un 'Aleem",
+    "transliteration_id": "Żurriyyatam ba‘ḍuhā mim ba‘ḍ(in), wallāhu samī‘un ‘alīm(un).",
+    "translation_en": "Descendants, some of them from others. And Allah is Hearing and Knowing.",
+    "translation_id": "(Mereka adalah) satu keturunan, sebagiannya adalah (keturunan) dari sebagian yang lain. Allah Maha Mendengar lagi Maha Mengetahui."
+  },
+  {
+    "ayat": 35,
+    "arabic": "اِذْ قَالَتِ امْرَاَتُ عِمْرٰنَ رَبِّ اِنِّيْ نَذَرْتُ لَكَ مَا فِيْ بَطْنِيْ مُحَرَّرًا فَتَقَبَّلْ مِنِّيْ ۚ اِنَّكَ اَنْتَ السَّمِيْعُ الْعَلِيْمُ",
+    "transliteration_en": "Iz qaalatim ra atu 'Imraana Rabbi innee nazartu laka maa fee batnee muharraran fataqabbal minnee innaka Antas Samee'ul 'Aleem",
+    "transliteration_id": "Iż qālatimra'atu ‘imrāna rabbi innī nażartu laka mā fī baṭnī muḥarraran fataqabbal minnī, innaka antas-samī‘ul-‘alīm(u).",
+    "translation_en": "[Mention, O Muhammad], when the wife of 'Imran said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\"",
+    "translation_id": "(Ingatlah) ketika istri Imran berkata, “Wahai Tuhanku, sesungguhnya aku menazarkan kepada-Mu apa yang ada di dalam kandunganku murni untuk-Mu (berkhidmat di Baitulmaqdis). Maka, terimalah (nazar itu) dariku. Sesungguhnya Engkaulah Yang Maha Mendengar lagi Maha Mengetahui.”"
+  },
+  {
+    "ayat": 36,
+    "arabic": "فَلَمَّا وَضَعَتْهَا قَالَتْ رَبِّ اِنِّيْ وَضَعْتُهَآ اُنْثٰىۗ وَاللّٰهُ اَعْلَمُ بِمَا وَضَعَتْۗ وَلَيْسَ الذَّكَرُ كَالْاُنْثٰى ۚ وَاِنِّيْ سَمَّيْتُهَا مَرْيَمَ وَاِنِّيْٓ اُعِيْذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ الشَّيْطٰنِ الرَّجِيْمِ",
+    "transliteration_en": "Falammaa waqa'athaa qaalat Rabbi innee wada'tuhaaa unsaa wallaahu a'lamu bimaa wada'at wa laisaz zakaru kalunsaa wa innee sammaituhaa Maryama wa innee u'eezuhaa bika wa zurriyyatahaa minash Shaitaanir Rajeem",
+    "transliteration_id": "Falammā waḍa‘athā qālat rabbi innī waḍa‘tuhā unṡā, wallāhu a‘lamu bimā waḍa‘at, wa laisaż-żakaru kal-unṡā, wa innī sammaituhā maryama wa innī u‘īżuhā bika wa żurriyyatahā minasy-syaiṭānir-rajīm(i).",
+    "translation_en": "But when she delivered her, she said, \"My Lord, I have delivered a female.\" And Allah was most knowing of what she delivered, \"And the male is not like the female. And I have named her Mary, and I seek refuge for her in You and [for] her descendants from Satan, the expelled [from the mercy of Allah].\"",
+    "translation_id": "Ketika melahirkannya, dia berkata, “Wahai Tuhanku, aku telah melahirkan anak perempuan.” Padahal, Allah lebih tahu apa yang dia (istri Imran) lahirkan. “Laki-laki tidak sama dengan perempuan. Aku memberinya nama Maryam serta memohon perlindungan-Mu untuknya dan anak cucunya dari setan yang terkutuk.”"
+  },
+  {
+    "ayat": 37,
+    "arabic": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُوْلٍ حَسَنٍ وَّاَنْۢبَتَهَا نَبَاتًا حَسَنًاۖ وَّكَفَّلَهَا زَكَرِيَّا ۗ كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا الْمِحْرَابَۙ وَجَدَ عِنْدَهَا رِزْقًا ۚ قَالَ يٰمَرْيَمُ اَنّٰى لَكِ هٰذَا ۗ قَالَتْ هُوَ مِنْ عِنْدِ اللّٰهِ ۗ اِنَّ اللّٰهَ يَرْزُقُ مَنْ يَّشَاۤءُ بِغَيْرِ حِسَابٍ",
+    "transliteration_en": "Fataqabbalahaa Rabbuhaa biqaboolin hasaninw wa ambatahaa nabaatan hasananw wa kaffalahaa Zakariyyaa kullamaa dakhala 'alaihaa Zakariyyal Mihraaba wajada 'indahaa rizqan qaala yaa Maryamu annaa laki haazaa qaalat huwa min 'indil laahi innal laaha yarzuqu mai yashaaa'u bighairi hisaab",
+    "transliteration_id": "Fataqabbalahā rabbuhā biqabūlin ḥasaniw wa ambatahā nabātan ḥasanā(n), wa kaffalahā zakariyyā, kullamā dakhala ‘alaihā zakariyyal-miḥrāba wajada ‘indahā rizqā(n), qāla yā maryama annā laki hāżā, qālat huwa min ‘indillāh(i), innallāha yarzuqu may yasyā'u bigairi ḥisāb(in).",
+    "translation_en": "So her Lord accepted her with good acceptance and caused her to grow in a good manner and put her in the care of Zechariah. Every time Zechariah entered upon her in the prayer chamber, he found with her provision. He said, \"O Mary, from where is this [coming] to you?\" She said, \"It is from Allah. Indeed, Allah provides for whom He wills without account.\"",
+    "translation_id": "Dia (Allah) menerimanya (Maryam) dengan penerimaan yang baik, membesarkannya dengan pertumbuhan yang baik, dan menyerahkan pemeliharaannya kepada Zakaria. Setiap kali Zakaria masuk menemui di mihrabnya, dia mendapati makanan di sisinya. Dia berkata, “Wahai Maryam, dari mana ini engkau peroleh?” Dia (Maryam) menjawab, “Itu dari Allah.” Sesungguhnya Allah memberi rezeki kepada siapa yang Dia kehendaki tanpa perhitungan."
+  },
+  {
+    "ayat": 38,
+    "arabic": "هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهٗ ۚ قَالَ رَبِّ هَبْ لِيْ مِنْ لَّدُنْكَ ذُرِّيَّةً طَيِّبَةً ۚ اِنَّكَ سَمِيْعُ الدُّعَاۤءِ",
+    "transliteration_en": "Hunaaalika da'aa Zakariyyaa Rabbahoo qaala Rabbi hab lee mil ladunka zurriyyatan taiyibatan innaka samee'ud du'aaa'",
+    "transliteration_id": "Hunālika da‘ā zakariyyā rabbahū qāla rabbi hab lī mil ladunka żurriyyatan ṭayyibah(tan), innaka samī‘ud-du‘ā'(i).",
+    "translation_en": "At that, Zechariah called upon his Lord, saying, \"My Lord, grant me from Yourself a good offspring. Indeed, You are the Hearer of supplication.\"",
+    "translation_id": "Di sanalah Zakaria berdoa kepada Tuhannya. Dia berkata, “Wahai Tuhanku, karuniakanlah kepadaku keturunan yang baik dari sisi-Mu. Sesungguhnya Engkau Maha Mendengar doa.”"
+  },
+  {
+    "ayat": 39,
+    "arabic": "فَنَادَتْهُ الْمَلٰۤىِٕكَةُ وَهُوَ قَاۤىِٕمٌ يُّصَلِّيْ فِى الْمِحْرَابِۙ اَنَّ اللّٰهَ يُبَشِّرُكَ بِيَحْيٰى مُصَدِّقًاۢ بِكَلِمَةٍ مِّنَ اللّٰهِ وَسَيِّدًا وَّحَصُوْرًا وَّنَبِيًّا مِّنَ الصّٰلِحِيْنَ",
+    "transliteration_en": "Fanaadat hul malaaa'ikatu wa huwa qaaa'imuny yusallee fil Mihraabi annal laaha yubashshiruka bi Yahyaa musaddiqam bi Kalimatim minal laahi wa saiyidanw wa hasooranw wa Nabiyyam minas saaliheen",
+    "transliteration_id": "Fanādathul-malā'ikatu wa huwa qā'imuy yuṣallī fil-miḥrāb(i), annallāha yubasysyiruka biyaḥyā muṣaddiqam bikalimatim minallāhi wa sayyidaw wa ḥaṣūraw wa nabiyyam minaṣ-ṣāliḥīn(a).",
+    "translation_en": "So the angels called him while he was standing in prayer in the chamber, \"Indeed, Allah gives you good tidings of John, confirming a word from Allah and [who will be] honorable, abstaining [from women], and a prophet from among the righteous.\"",
+    "translation_id": "Lalu, Malaikat (Jibril) memanggilnya ketika dia berdiri melaksanakan salat di mihrab, “Allah menyampaikan kabar gembira kepadamu dengan (kelahiran) Yahya yang membenarkan kalimat dari Allah, (menjadi) anutan, menahan diri (dari hawa nafsu), dan seorang nabi di antara orang-orang saleh.”"
+  },
+  {
+    "ayat": 40,
+    "arabic": "قَالَ رَبِّ اَنّٰى يَكُوْنُ لِيْ غُلٰمٌ وَّقَدْ بَلَغَنِيَ الْكِبَرُ وَامْرَاَتِيْ عَاقِرٌ ۗ قَالَ كَذٰلِكَ اللّٰهُ يَفْعَلُ مَا يَشَاۤءُ",
+    "transliteration_en": "Qaala Rabbi annaa yakoonu lee ghulaamunw wa qad balaghaniyal kibaru wamraatee 'aaqirun qaala kazaalikal laahu yaf'alu maa yashaaa'",
+    "transliteration_id": "Qāla rabbi annā yakūnu lī gulāmuw wa qad balaganīyal-kibaru wamra'atī ‘āqir(un), qāla każālikallāhu yaf‘alu mā yasyā'(u).",
+    "translation_en": "He said, \"My Lord, how will I have a boy when I have reached old age and my wife is barren?\" The angel said, \"Such is Allah; He does what He wills.\"",
+    "translation_id": "Dia (Zakaria) berkata, “Wahai Tuhanku, bagaimana aku bisa mendapat anak, sedangkan aku sudah sangat tua dan istriku pun mandul?” (Allah) berfirman, “Demikianlah, Allah melakukan apa yang Dia kehendaki.”"
+  },
+  {
+    "ayat": 41,
+    "arabic": "قَالَ رَبِّ اجْعَلْ لِّيْٓ اٰيَةً ۗ قَالَ اٰيَتُكَ اَلَّا تُكَلِّمَ النَّاسَ ثَلٰثَةَ اَيَّامٍ اِلَّا رَمْزًا ۗ وَاذْكُرْ رَّبَّكَ كَثِيْرًا وَّسَبِّحْ بِالْعَشِيِّ وَالْاِبْكَارِ ࣖ",
+    "transliteration_en": "Qaala Rabbij 'al leee Aayatan qaala Aaayatuka allaa tukalliman naasa salaasata ayyaamin illa ramzaa; wzkur Rabbaka kaseeranw wa sabbih bil'ashiyyi wal ibkaar",
+    "transliteration_id": "Qāla rabbij‘al lī āyah(tan), qāla āyatuka allā tukalliman-nāsa  ṡalāṡata ayyāmin illā ramzā(n), ważkur rabbaka kaṡīraw wa sabbiḥ bil-‘asyiyyi wal-ibkār(i).",
+    "translation_en": "He said, \"My Lord, make for me a sign.\" He Said, \"Your sign is that you will not [be able to] speak to the people for three days except by gesture. And remember your Lord much and exalt [Him with praise] in the evening and the morning.\"",
+    "translation_id": "Dia (Zakaria) berkata, “Wahai Tuhanku, berilah aku suatu tanda (kehamilan istriku).” Allah berfirman, “Tandanya bagimu adalah engkau tidak (dapat) berbicara dengan manusia selama tiga hari, kecuali dengan isyarat. Sebutlah (nama) Tuhanmu sebanyak-banyaknya dan bertasbihlah pada waktu petang dan pagi hari.”"
+  },
+  {
+    "ayat": 42,
+    "arabic": "وَاِذْ قَالَتِ الْمَلٰۤىِٕكَةُ يٰمَرْيَمُ اِنَّ اللّٰهَ اصْطَفٰىكِ وَطَهَّرَكِ وَاصْطَفٰىكِ عَلٰى نِسَاۤءِ الْعٰلَمِيْنَ",
+    "transliteration_en": "Wa iz qaalatil malaaa'ikatu yaa Ya Maryamu innal laahas tafaaki wa tahharaki wastafaaki 'alaa nisaaa'il 'aalameen",
+    "transliteration_id": "Wa iż qālatil-malā'ikatu yā maryama innallāhaṣṭafāki wa ṭahharaki waṣṭafāki ‘alā nisā'il-‘ālamīn(a).",
+    "translation_en": "And [mention] when the angels said, \"O Mary, indeed Allah has chosen you and purified you and chosen you above the women of the worlds.",
+    "translation_id": "(Ingatlah) ketika Malaikat (Jibril) berkata, “Wahai Maryam, sesungguhnya Allah telah memilihmu, menyucikanmu, dan melebihkanmu di atas seluruh perempuan di semesta alam (pada masa itu)."
+  },
+  {
+    "ayat": 43,
+    "arabic": "يٰمَرْيَمُ اقْنُتِيْ لِرَبِّكِ وَاسْجُدِيْ وَارْكَعِيْ مَعَ الرّٰكِعِيْنَ",
+    "transliteration_en": "Yaa Maryamuq nutee li Rabbiki wasjudee warka'ee ma'ar raaki'een",
+    "transliteration_id": "Yā maryamuqnutī lirabbiki wasjudī warka‘ī ma‘ar-rāki‘īn(a).",
+    "translation_en": "O Mary, be devoutly obedient to your Lord and prostrate and bow with those who bow [in prayer].\"",
+    "translation_id": "Wahai Maryam, taatlah kepada Tuhanmu, sujudlah, dan rukuklah bersama orang-orang yang rukuk.”"
+  },
+  {
+    "ayat": 44,
+    "arabic": "ذٰلِكَ مِنْ اَنْۢبَاۤءِ الْغَيْبِ نُوْحِيْهِ اِلَيْكَ ۗوَمَا كُنْتَ لَدَيْهِمْ اِذْ يُلْقُوْنَ اَقْلَامَهُمْ اَيُّهُمْ يَكْفُلُ مَرْيَمَۖ وَمَا كُنْتَ لَدَيْهِمْ اِذْ يَخْتَصِمُوْنَ",
+    "transliteration_en": "Zaalika min ambaaa'il ghaibi nooheehi ilaik; wa maa kunta ladaihim iz yulqoona aqlaamahum ayyuhum yakfulu Maryama wa maa kunta ladaihim iz yakhtasimoon",
+    "transliteration_id": "Żālika min ambā'il-gaibi nūḥīhi ilaik(a), wa mā kunta ladaihim iż yulqūna aqlāmahum ayyuhum yakfulu maryam(a), wa mā kunta ladaihim iż yakhtaṣimūn(a).",
+    "translation_en": "That is from the news of the unseen which We reveal to you, [O Muhammad]. And you were not with them when they cast their pens as to which of them should be responsible for Mary. Nor were you with them when they disputed.",
+    "translation_id": "Itulah sebagian dari berita-berita gaib yang Kami wahyukan kepadamu (Nabi Muhammad). Padahal, engkau tidak bersama mereka ketika mereka melemparkan pena mereka (untuk mengundi) siapa di antara mereka yang akan memelihara Maryam dan engkau tidak bersama mereka ketika mereka bersengketa."
+  },
+  {
+    "ayat": 45,
+    "arabic": "اِذْ قَالَتِ الْمَلٰۤىِٕكَةُ يٰمَرْيَمُ اِنَّ اللّٰهَ يُبَشِّرُكِ بِكَلِمَةٍ مِّنْهُۖ اسْمُهُ الْمَسِيْحُ عِيْسَى ابْنُ مَرْيَمَ وَجِيْهًا فِى الدُّنْيَا وَالْاٰخِرَةِ وَمِنَ الْمُقَرَّبِيْنَۙ",
+    "transliteration_en": "Iz qaalatil malaaa'ikatu yaa Maryamu innal laaha yubashshiruki bi Kalimatim minhus muhul Maseeh u 'Eesab nu Maryama wajeehan fid dunyaa wal Aakhirati wa minal muqarrabeen",
+    "transliteration_id": "Iż qālatil-malā'ikatu yā maryama innallāha yubasysyiruki bikalimatim minhusmuhul-masīḥu ‘īsabnu maryama wajīhan fid-dun-yā wal-ākhirati wa minal-muqarrabīn(a).",
+    "translation_en": "[And mention] when the angels said, \"O Mary, indeed Allah gives you good tidings of a word from Him, whose name will be the Messiah, Jesus, the son of Mary - distinguished in this world and the Hereafter and among those brought near [to Allah].",
+    "translation_id": "(Ingatlah) ketika Malaikat (Jibril) berkata, “Wahai Maryam, sesungguhnya Allah menyampaikan kabar gembira kepadamu tentang (kelahiran anak yang diciptakan) dengan kalimat dari-Nya, namanya Isa Almasih putra Maryam, seorang terkemuka di dunia dan di akhirat serta termasuk orang-orang yang didekatkan (kepada Allah)."
+  },
+  {
+    "ayat": 46,
+    "arabic": "وَيُكَلِّمُ النَّاسَ فِى الْمَهْدِ وَكَهْلًا وَّمِنَ الصّٰلِحِيْنَ",
+    "transliteration_en": "Wa yukallimun naasa filmahdi wa kahlanw wa minassaaliheen",
+    "transliteration_id": "Wa yukallimun nāsa fil-mahdi wa kahlaw wa minaṣ-ṣāliḥīn(a).",
+    "translation_en": "He will speak to the people in the cradle and in maturity and will be of the righteous.\"",
+    "translation_id": "Dia berbicara dengan manusia (sewaktu) dalam buaian dan ketika sudah dewasa serta termasuk orang-orang saleh.”"
+  },
+  {
+    "ayat": 47,
+    "arabic": "قَالَتْ رَبِّ اَنّٰى يَكُوْنُ لِيْ وَلَدٌ وَّلَمْ يَمْسَسْنِيْ بَشَرٌ ۗ قَالَ كَذٰلِكِ اللّٰهُ يَخْلُقُ مَا يَشَاۤءُ ۗاِذَا قَضٰٓى اَمْرًا فَاِنَّمَا يَقُوْلُ لَهٗ كُنْ فَيَكُوْنُ",
+    "transliteration_en": "Qaalat Rabbi annaa yakoonu ee waladunw wa lam yamsasnee basharun qaala kazaalikil laahu yakhluqu maa yashaaa'; izaa qadaaa amran fa innamaa yaqoolu lahoo kun fayakoon",
+    "transliteration_id": "Qālat rabbi annā yakūnu lī waladuw wa lam yamsasnī basyar(un), qāla każālikillāhu yakhluqu mā yasyā'(u), iżā qaḍā amran fa'innamā yaqūlu lahū kun fayakūn(u).",
+    "translation_en": "She said, \"My Lord, how will I have a child when no man has touched me?\" [The angel] said, \"Such is Allah; He creates what He wills. When He decrees a matter, He only says to it, 'Be,' and it is.",
+    "translation_id": "Dia (Maryam) berkata, “Wahai Tuhanku, bagaimana mungkin aku akan mempunyai anak, padahal tidak ada seorang laki-laki pun yang menyentuhku?” Dia (Allah) berfirman, “Demikianlah, Allah menciptakan apa yang Dia kehendaki.” Apabila Dia hendak menetapkan sesuatu, Dia hanya berkata padanya, “Jadilah!” Maka, jadilah sesuatu itu."
+  },
+  {
+    "ayat": 48,
+    "arabic": "وَيُعَلِّمُهُ الْكِتٰبَ وَالْحِكْمَةَ وَالتَّوْرٰىةَ وَالْاِنْجِيْلَۚ",
+    "transliteration_en": "Wa yu'allimuhul Kitaaba wal Hikmata wat Tawraata wal Injeel",
+    "transliteration_id": "Wa ya‘allimuhul-kitāba wal-ḥikmata wat-taurāta wal-injīl(a).",
+    "translation_en": "And He will teach him writing and wisdom and the Torah and the Gospel",
+    "translation_id": "Dia (Allah) mengajarkan kepadanya (Isa) kitab, hikmah, Taurat, dan Injil."
+  },
+  {
+    "ayat": 49,
+    "arabic": "وَرَسُوْلًا اِلٰى بَنِيْٓ اِسْرَاۤءِيْلَ ەۙ اَنِّيْ قَدْ جِئْتُكُمْ بِاٰيَةٍ مِّنْ رَّبِّكُمْ ۙاَنِّيْٓ اَخْلُقُ لَكُمْ مِّنَ الطِّيْنِ كَهَيْـَٔةِ الطَّيْرِ فَاَنْفُخُ فِيْهِ فَيَكُوْنُ طَيْرًاۢ بِاِذْنِ اللّٰهِ ۚوَاُبْرِئُ الْاَكْمَهَ وَالْاَبْرَصَ وَاُحْيِ الْمَوْتٰى بِاِذْنِ اللّٰهِ ۚوَاُنَبِّئُكُمْ بِمَا تَأْكُلُوْنَ وَمَا تَدَّخِرُوْنَ ۙفِيْ بُيُوْتِكُمْ ۗاِنَّ فِيْ ذٰلِكَ لَاٰيَةً لَّكُمْ اِنْ كُنْتُمْ مُّؤْمِنِيْنَۚ",
+    "transliteration_en": "Wa Rasoolan ilaa Baneee Israaa'eela annee qad ji'tukum bi Aayatim mir Rabbikum annee akhluqu lakum minatteeni kahai 'atittairi fa anfukhu feehi fayakoonu tairam bi iznil laahi wa ubri'ul akmaha wal abrasa wa uhyil mawtaa bi iznil laahi wa unabbi'ukum bimaa taakuloona wa maa taddakhiroona fee buyootikum; inna fee zaalika la Aayatal lakum in kuntum mu'mineen",
+    "transliteration_id": "Wa rasūlan ilā banī isrā'īl(a), annī qad ji'tukum bi'āyatim mir rabbikum, annī akhluqu lakum minaṭ-ṭīni kahai'atiṭ-ṭairi fa'anfukhu  fihi fayakūnu ṭairam bi'iżnillāh(i), wa ubarri'ul-akmaha wal-abraṣa wa uḥyil-mautā bi'iżnillāh(i), wa unabbi'ukum bimā ta'kulūna wa mā taddakhirūna fī buyūtikum, inna fī żālika la'āyatal lakum in kuntum mu'minīn(a).",
+    "translation_en": "And [make him] a messenger to the Children of Israel, [who will say], 'Indeed I have come to you with a sign from your Lord in that I design for you from clay [that which is] like the form of a bird, then I breathe into it and it becomes a bird by permission of Allah. And I cure the blind and the leper, and I give life to the dead - by permission of Allah. And I inform you of what you eat and what you store in your houses. Indeed in that is a sign for you, if you are believers.",
+    "translation_id": "(Allah akan menjadikannya) sebagai seorang rasul kepada Bani Israil. (Isa berkata,) “Sesungguhnya aku telah datang kepadamu dengan tanda (mukjizat) dari Tuhanmu, sesungguhnya aku membuatkan bagimu (sesuatu) dari tanah yang berbentuk seperti burung. Lalu, aku meniupnya sehingga menjadi seekor burung dengan izin Allah. Aku menyembuhkan orang yang buta sejak dari lahir dan orang yang berpenyakit buras (belang) serta menghidupkan orang-orang mati dengan izin Allah. Aku beri tahukan kepadamu apa yang kamu makan dan apa yang kamu simpan di rumahmu. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda (kerasulanku) bagimu jika kamu orang-orang mukmin."
+  },
+  {
+    "ayat": 50,
+    "arabic": "وَمُصَدِّقًا لِّمَا بَيْنَ يَدَيَّ مِنَ التَّوْرٰىةِ وَلِاُحِلَّ لَكُمْ بَعْضَ الَّذِيْ حُرِّمَ عَلَيْكُمْ  وَجِئْتُكُمْ بِاٰيَةٍ مِّنْ رَّبِّكُمْۗ فَاتَّقُوا اللّٰهَ وَاَطِيْعُوْنِ",
+    "transliteration_en": "Wa musaddiqal limaa baina yadaiya minat Tawraati wa liuhilla lakum ba'dal lazee hurrima 'alaikum; wa ji'tukum bi Aayatim mir Rabbikum fattaqul laaha wa atee'oon",
+    "transliteration_id": "Wa muṣaddiqal limā baina yadayya minat-taurāti wa li'uḥilla lakum ba‘ḍal-lażī ḥurrima ‘alaikum wa ji'tukum bi'āyatim mir rabbikum, fattaqullāha wa aṭī‘ūn(i).",
+    "translation_en": "And [I have come] confirming what was before me of the Torah and to make lawful for you some of what was forbidden to you. And I have come to you with a sign from your Lord, so fear Allah and obey me.",
+    "translation_id": "(Aku diutus untuk) membenarkan Taurat yang (diturunkan) sebelumku dan untuk menghalalkan bagi kamu sebagian perkara yang telah diharamkan untukmu. Aku datang kepadamu dengan membawa tanda (mukjizat) dari Tuhanmu. Oleh karena itu, bertakwalah kepada Allah dan taatlah kepadaku."
+  }
+]

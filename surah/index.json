@@ -1,0 +1,914 @@
+{
+  "1": {
+    "surah": 1,
+    "file": "001.json",
+    "name_en": "The Opening",
+    "name_id": "Al-Fatihah",
+    "revelation": "Mekah",
+    "total": 7
+  },
+  "2": {
+    "surah": 2,
+    "file": "002.json",
+    "name_en": "The Cow",
+    "name_id": "Al-Baqarah",
+    "revelation": "Madinah",
+    "total": 286
+  },
+  "3": {
+    "surah": 3,
+    "file": "003.json",
+    "name_en": "The Family of Imran",
+    "name_id": "Ali 'Imran",
+    "revelation": "Madinah",
+    "total": 200
+  },
+  "4": {
+    "surah": 4,
+    "file": "004.json",
+    "name_en": "The Women",
+    "name_id": "An-Nisa'",
+    "revelation": "Madinah",
+    "total": 176
+  },
+  "5": {
+    "surah": 5,
+    "file": "005.json",
+    "name_en": "The Table Spread",
+    "name_id": "Al-Ma'idah",
+    "revelation": "Madinah",
+    "total": 120
+  },
+  "6": {
+    "surah": 6,
+    "file": "006.json",
+    "name_en": "The Cattle",
+    "name_id": "Al-An'am",
+    "revelation": "Mekah",
+    "total": 165
+  },
+  "7": {
+    "surah": 7,
+    "file": "007.json",
+    "name_en": "The Heights",
+    "name_id": "Al-A'raf",
+    "revelation": "Mekah",
+    "total": 206
+  },
+  "8": {
+    "surah": 8,
+    "file": "008.json",
+    "name_en": "The Spoils of War",
+    "name_id": "Al-Anfal",
+    "revelation": "Madinah",
+    "total": 75
+  },
+  "9": {
+    "surah": 9,
+    "file": "009.json",
+    "name_en": "The Repentance",
+    "name_id": "At-Taubah",
+    "revelation": "Madinah",
+    "total": 129
+  },
+  "10": {
+    "surah": 10,
+    "file": "010.json",
+    "name_en": "Jonah",
+    "name_id": "Yunus",
+    "revelation": "Mekah",
+    "total": 109
+  },
+  "11": {
+    "surah": 11,
+    "file": "011.json",
+    "name_en": "Hud",
+    "name_id": "Hud",
+    "revelation": "Mekah",
+    "total": 123
+  },
+  "12": {
+    "surah": 12,
+    "file": "012.json",
+    "name_en": "Joseph",
+    "name_id": "Yusuf",
+    "revelation": "Mekah",
+    "total": 111
+  },
+  "13": {
+    "surah": 13,
+    "file": "013.json",
+    "name_en": "The Thunder",
+    "name_id": "Ar-Ra'd",
+    "revelation": "Madinah",
+    "total": 43
+  },
+  "14": {
+    "surah": 14,
+    "file": "014.json",
+    "name_en": "Abraham",
+    "name_id": "Ibrahim",
+    "revelation": "Mekah",
+    "total": 52
+  },
+  "15": {
+    "surah": 15,
+    "file": "015.json",
+    "name_en": "The Rocky Tract",
+    "name_id": "Al-Hijr",
+    "revelation": "Mekah",
+    "total": 99
+  },
+  "16": {
+    "surah": 16,
+    "file": "016.json",
+    "name_en": "The Bee",
+    "name_id": "An-Nahl",
+    "revelation": "Mekah",
+    "total": 128
+  },
+  "17": {
+    "surah": 17,
+    "file": "017.json",
+    "name_en": "The Night Journey",
+    "name_id": "Al-Isra'",
+    "revelation": "Mekah",
+    "total": 111
+  },
+  "18": {
+    "surah": 18,
+    "file": "018.json",
+    "name_en": "The Cave",
+    "name_id": "Al-Kahf",
+    "revelation": "Mekah",
+    "total": 110
+  },
+  "19": {
+    "surah": 19,
+    "file": "019.json",
+    "name_en": "Mary",
+    "name_id": "Maryam",
+    "revelation": "Mekah",
+    "total": 98
+  },
+  "20": {
+    "surah": 20,
+    "file": "020.json",
+    "name_en": "Ta-Ha",
+    "name_id": "Taha",
+    "revelation": "Mekah",
+    "total": 135
+  },
+  "21": {
+    "surah": 21,
+    "file": "021.json",
+    "name_en": "The Prophets",
+    "name_id": "Al-Anbiya'",
+    "revelation": "Mekah",
+    "total": 112
+  },
+  "22": {
+    "surah": 22,
+    "file": "022.json",
+    "name_en": "The Pilgrimage",
+    "name_id": "Al-Hajj",
+    "revelation": "Madinah",
+    "total": 78
+  },
+  "23": {
+    "surah": 23,
+    "file": "023.json",
+    "name_en": "The Believers",
+    "name_id": "Al-Mu'minun",
+    "revelation": "Mekah",
+    "total": 118
+  },
+  "24": {
+    "surah": 24,
+    "file": "024.json",
+    "name_en": "The Light",
+    "name_id": "An-Nur",
+    "revelation": "Madinah",
+    "total": 64
+  },
+  "25": {
+    "surah": 25,
+    "file": "025.json",
+    "name_en": "The Criterion",
+    "name_id": "Al-Furqan",
+    "revelation": "Mekah",
+    "total": 77
+  },
+  "26": {
+    "surah": 26,
+    "file": "026.json",
+    "name_en": "The Poets",
+    "name_id": "Asy-Syu'ara'",
+    "revelation": "Mekah",
+    "total": 227
+  },
+  "27": {
+    "surah": 27,
+    "file": "027.json",
+    "name_en": "The Ant",
+    "name_id": "An-Naml",
+    "revelation": "Mekah",
+    "total": 93
+  },
+  "28": {
+    "surah": 28,
+    "file": "028.json",
+    "name_en": "The Stories",
+    "name_id": "Al-Qasas",
+    "revelation": "Mekah",
+    "total": 88
+  },
+  "29": {
+    "surah": 29,
+    "file": "029.json",
+    "name_en": "The Spider",
+    "name_id": "Al-'Ankabut",
+    "revelation": "Mekah",
+    "total": 69
+  },
+  "30": {
+    "surah": 30,
+    "file": "030.json",
+    "name_en": "The Romans",
+    "name_id": "Ar-Rum",
+    "revelation": "Mekah",
+    "total": 60
+  },
+  "31": {
+    "surah": 31,
+    "file": "031.json",
+    "name_en": "Luqman",
+    "name_id": "Luqman",
+    "revelation": "Mekah",
+    "total": 34
+  },
+  "32": {
+    "surah": 32,
+    "file": "032.json",
+    "name_en": "The Prostration",
+    "name_id": "As-Sajdah",
+    "revelation": "Mekah",
+    "total": 30
+  },
+  "33": {
+    "surah": 33,
+    "file": "033.json",
+    "name_en": "The Combined Forces",
+    "name_id": "Al-Ahzab",
+    "revelation": "Madinah",
+    "total": 73
+  },
+  "34": {
+    "surah": 34,
+    "file": "034.json",
+    "name_en": "Sheba",
+    "name_id": "Saba'",
+    "revelation": "Mekah",
+    "total": 54
+  },
+  "35": {
+    "surah": 35,
+    "file": "035.json",
+    "name_en": "The Originator",
+    "name_id": "Fatir",
+    "revelation": "Mekah",
+    "total": 45
+  },
+  "36": {
+    "surah": 36,
+    "file": "036.json",
+    "name_en": "Ya-Sin",
+    "name_id": "Yasin",
+    "revelation": "Mekah",
+    "total": 83
+  },
+  "37": {
+    "surah": 37,
+    "file": "037.json",
+    "name_en": "Those Ranged in Ranks",
+    "name_id": "As-Saffat",
+    "revelation": "Mekah",
+    "total": 182
+  },
+  "38": {
+    "surah": 38,
+    "file": "038.json",
+    "name_en": "Sad",
+    "name_id": "Sad",
+    "revelation": "Mekah",
+    "total": 88
+  },
+  "39": {
+    "surah": 39,
+    "file": "039.json",
+    "name_en": "The Groups",
+    "name_id": "Az-Zumar",
+    "revelation": "Mekah",
+    "total": 75
+  },
+  "40": {
+    "surah": 40,
+    "file": "040.json",
+    "name_en": "The Forgiver",
+    "name_id": "Gafir",
+    "revelation": "Mekah",
+    "total": 85
+  },
+  "41": {
+    "surah": 41,
+    "file": "041.json",
+    "name_en": "Explained in Detail",
+    "name_id": "Fussilat",
+    "revelation": "Mekah",
+    "total": 54
+  },
+  "42": {
+    "surah": 42,
+    "file": "042.json",
+    "name_en": "The Consultation",
+    "name_id": "Asy-Syura",
+    "revelation": "Mekah",
+    "total": 53
+  },
+  "43": {
+    "surah": 43,
+    "file": "043.json",
+    "name_en": "The Gold Adornments",
+    "name_id": "Az-Zukhruf",
+    "revelation": "Mekah",
+    "total": 89
+  },
+  "44": {
+    "surah": 44,
+    "file": "044.json",
+    "name_en": "The Smoke",
+    "name_id": "Ad-Dukhan",
+    "revelation": "Mekah",
+    "total": 59
+  },
+  "45": {
+    "surah": 45,
+    "file": "045.json",
+    "name_en": "The Crouching",
+    "name_id": "Al-Jasiyah",
+    "revelation": "Mekah",
+    "total": 37
+  },
+  "46": {
+    "surah": 46,
+    "file": "046.json",
+    "name_en": "The Wind-Curved Sandhills",
+    "name_id": "Al-Ahqaf",
+    "revelation": "Mekah",
+    "total": 35
+  },
+  "47": {
+    "surah": 47,
+    "file": "047.json",
+    "name_en": "Muhammad",
+    "name_id": "Muhammad",
+    "revelation": "Madinah",
+    "total": 38
+  },
+  "48": {
+    "surah": 48,
+    "file": "048.json",
+    "name_en": "The Victory",
+    "name_id": "Al-Fath",
+    "revelation": "Madinah",
+    "total": 29
+  },
+  "49": {
+    "surah": 49,
+    "file": "049.json",
+    "name_en": "The Rooms",
+    "name_id": "Al-Hujurat",
+    "revelation": "Madinah",
+    "total": 18
+  },
+  "50": {
+    "surah": 50,
+    "file": "050.json",
+    "name_en": "Qaf",
+    "name_id": "Qaf",
+    "revelation": "Mekah",
+    "total": 45
+  },
+  "51": {
+    "surah": 51,
+    "file": "051.json",
+    "name_en": "The Winnowing Winds",
+    "name_id": "Az-Zariyat",
+    "revelation": "Mekah",
+    "total": 60
+  },
+  "52": {
+    "surah": 52,
+    "file": "052.json",
+    "name_en": "The Mount",
+    "name_id": "At-Tur",
+    "revelation": "Mekah",
+    "total": 49
+  },
+  "53": {
+    "surah": 53,
+    "file": "053.json",
+    "name_en": "The Star",
+    "name_id": "An-Najm",
+    "revelation": "Mekah",
+    "total": 62
+  },
+  "54": {
+    "surah": 54,
+    "file": "054.json",
+    "name_en": "The Moon",
+    "name_id": "Al-Qamar",
+    "revelation": "Mekah",
+    "total": 55
+  },
+  "55": {
+    "surah": 55,
+    "file": "055.json",
+    "name_en": "The Most Merciful",
+    "name_id": "Ar-Rahman",
+    "revelation": "Madinah",
+    "total": 78
+  },
+  "56": {
+    "surah": 56,
+    "file": "056.json",
+    "name_en": "The Inevitable",
+    "name_id": "Al-Waqi'ah",
+    "revelation": "Mekah",
+    "total": 96
+  },
+  "57": {
+    "surah": 57,
+    "file": "057.json",
+    "name_en": "The Iron",
+    "name_id": "Al-Hadid",
+    "revelation": "Madinah",
+    "total": 29
+  },
+  "58": {
+    "surah": 58,
+    "file": "058.json",
+    "name_en": "The Pleading Woman",
+    "name_id": "Al-Mujadalah",
+    "revelation": "Madinah",
+    "total": 22
+  },
+  "59": {
+    "surah": 59,
+    "file": "059.json",
+    "name_en": "The Exile",
+    "name_id": "Al-Hasyr",
+    "revelation": "Madinah",
+    "total": 24
+  },
+  "60": {
+    "surah": 60,
+    "file": "060.json",
+    "name_en": "The Woman to be Examined",
+    "name_id": "Al-Mumtahanah",
+    "revelation": "Madinah",
+    "total": 13
+  },
+  "61": {
+    "surah": 61,
+    "file": "061.json",
+    "name_en": "The Ranks",
+    "name_id": "As-Saff",
+    "revelation": "Madinah",
+    "total": 14
+  },
+  "62": {
+    "surah": 62,
+    "file": "062.json",
+    "name_en": "The Congregation",
+    "name_id": "Al-Jumu'ah",
+    "revelation": "Madinah",
+    "total": 11
+  },
+  "63": {
+    "surah": 63,
+    "file": "063.json",
+    "name_en": "The Hypocrites",
+    "name_id": "Al-Munafiqun",
+    "revelation": "Madinah",
+    "total": 11
+  },
+  "64": {
+    "surah": 64,
+    "file": "064.json",
+    "name_en": "Mutual Disillusion",
+    "name_id": "At-Tagabun",
+    "revelation": "Madinah",
+    "total": 18
+  },
+  "65": {
+    "surah": 65,
+    "file": "065.json",
+    "name_en": "The Divorce",
+    "name_id": "At-Talaq",
+    "revelation": "Madinah",
+    "total": 12
+  },
+  "66": {
+    "surah": 66,
+    "file": "066.json",
+    "name_en": "The Prohibition",
+    "name_id": "At-Tahrim",
+    "revelation": "Madinah",
+    "total": 12
+  },
+  "67": {
+    "surah": 67,
+    "file": "067.json",
+    "name_en": "The Sovereignty",
+    "name_id": "Al-Mulk",
+    "revelation": "Mekah",
+    "total": 30
+  },
+  "68": {
+    "surah": 68,
+    "file": "068.json",
+    "name_en": "The Pen",
+    "name_id": "Al-Qalam",
+    "revelation": "Mekah",
+    "total": 52
+  },
+  "69": {
+    "surah": 69,
+    "file": "069.json",
+    "name_en": "The Reality",
+    "name_id": "Al-Haqqah",
+    "revelation": "Mekah",
+    "total": 52
+  },
+  "70": {
+    "surah": 70,
+    "file": "070.json",
+    "name_en": "The Ascending Stairways",
+    "name_id": "Al-Ma'arij",
+    "revelation": "Mekah",
+    "total": 44
+  },
+  "71": {
+    "surah": 71,
+    "file": "071.json",
+    "name_en": "Noah",
+    "name_id": "Nuh",
+    "revelation": "Mekah",
+    "total": 28
+  },
+  "72": {
+    "surah": 72,
+    "file": "072.json",
+    "name_en": "The Jinn",
+    "name_id": "Al-Jinn",
+    "revelation": "Mekah",
+    "total": 28
+  },
+  "73": {
+    "surah": 73,
+    "file": "073.json",
+    "name_en": "The Enshrouded One",
+    "name_id": "Al-Muzzammil",
+    "revelation": "Mekah",
+    "total": 20
+  },
+  "74": {
+    "surah": 74,
+    "file": "074.json",
+    "name_en": "The Cloaked One",
+    "name_id": "Al-Muddassir",
+    "revelation": "Mekah",
+    "total": 56
+  },
+  "75": {
+    "surah": 75,
+    "file": "075.json",
+    "name_en": "The Resurrection",
+    "name_id": "Al-Qiyamah",
+    "revelation": "Mekah",
+    "total": 40
+  },
+  "76": {
+    "surah": 76,
+    "file": "076.json",
+    "name_en": "The Human",
+    "name_id": "Al-Insan",
+    "revelation": "Madinah",
+    "total": 31
+  },
+  "77": {
+    "surah": 77,
+    "file": "077.json",
+    "name_en": "The Emissaries",
+    "name_id": "Al-Mursalat",
+    "revelation": "Mekah",
+    "total": 50
+  },
+  "78": {
+    "surah": 78,
+    "file": "078.json",
+    "name_en": "The Tidings",
+    "name_id": "An-Naba'",
+    "revelation": "Mekah",
+    "total": 40
+  },
+  "79": {
+    "surah": 79,
+    "file": "079.json",
+    "name_en": "Those Who Drag Forth",
+    "name_id": "An-Nazi'at",
+    "revelation": "Mekah",
+    "total": 46
+  },
+  "80": {
+    "surah": 80,
+    "file": "080.json",
+    "name_en": "He Frowned",
+    "name_id": "'Abasa",
+    "revelation": "Mekah",
+    "total": 42
+  },
+  "81": {
+    "surah": 81,
+    "file": "081.json",
+    "name_en": "The Overthrowing",
+    "name_id": "At-Takwir",
+    "revelation": "Mekah",
+    "total": 29
+  },
+  "82": {
+    "surah": 82,
+    "file": "082.json",
+    "name_en": "The Cleaving",
+    "name_id": "Al-Infitar",
+    "revelation": "Mekah",
+    "total": 19
+  },
+  "83": {
+    "surah": 83,
+    "file": "083.json",
+    "name_en": "The Defrauding",
+    "name_id": "Al-Mutaffifin",
+    "revelation": "Mekah",
+    "total": 36
+  },
+  "84": {
+    "surah": 84,
+    "file": "084.json",
+    "name_en": "The Splitting Open",
+    "name_id": "Al-Insyiqaq",
+    "revelation": "Mekah",
+    "total": 25
+  },
+  "85": {
+    "surah": 85,
+    "file": "085.json",
+    "name_en": "The Constellations",
+    "name_id": "Al-Buruj",
+    "revelation": "Mekah",
+    "total": 22
+  },
+  "86": {
+    "surah": 86,
+    "file": "086.json",
+    "name_en": "The Nightcomer",
+    "name_id": "At-Tariq",
+    "revelation": "Mekah",
+    "total": 17
+  },
+  "87": {
+    "surah": 87,
+    "file": "087.json",
+    "name_en": "The Most High",
+    "name_id": "Al-A'la",
+    "revelation": "Mekah",
+    "total": 19
+  },
+  "88": {
+    "surah": 88,
+    "file": "088.json",
+    "name_en": "The Overwhelming",
+    "name_id": "Al-Gasyiyah",
+    "revelation": "Mekah",
+    "total": 26
+  },
+  "89": {
+    "surah": 89,
+    "file": "089.json",
+    "name_en": "The Dawn",
+    "name_id": "Al-Fajr",
+    "revelation": "Mekah",
+    "total": 30
+  },
+  "90": {
+    "surah": 90,
+    "file": "090.json",
+    "name_en": "The City",
+    "name_id": "Al-Balad",
+    "revelation": "Mekah",
+    "total": 20
+  },
+  "91": {
+    "surah": 91,
+    "file": "091.json",
+    "name_en": "The Sun",
+    "name_id": "Asy-Syams",
+    "revelation": "Mekah",
+    "total": 15
+  },
+  "92": {
+    "surah": 92,
+    "file": "092.json",
+    "name_en": "The Night",
+    "name_id": "Al-Lail",
+    "revelation": "Mekah",
+    "total": 21
+  },
+  "93": {
+    "surah": 93,
+    "file": "093.json",
+    "name_en": "The Morning Hours",
+    "name_id": "Ad-Duha",
+    "revelation": "Mekah",
+    "total": 11
+  },
+  "94": {
+    "surah": 94,
+    "file": "094.json",
+    "name_en": "The Relief",
+    "name_id": "Asy-Syarh",
+    "revelation": "Mekah",
+    "total": 8
+  },
+  "95": {
+    "surah": 95,
+    "file": "095.json",
+    "name_en": "The Fig",
+    "name_id": "At-Tin",
+    "revelation": "Mekah",
+    "total": 8
+  },
+  "96": {
+    "surah": 96,
+    "file": "096.json",
+    "name_en": "The Clot",
+    "name_id": "Al-'Alaq",
+    "revelation": "Mekah",
+    "total": 19
+  },
+  "97": {
+    "surah": 97,
+    "file": "097.json",
+    "name_en": "The Power",
+    "name_id": "Al-Qadr",
+    "revelation": "Mekah",
+    "total": 5
+  },
+  "98": {
+    "surah": 98,
+    "file": "098.json",
+    "name_en": "The Clear Proof",
+    "name_id": "Al-Bayyinah",
+    "revelation": "Madinah",
+    "total": 8
+  },
+  "99": {
+    "surah": 99,
+    "file": "099.json",
+    "name_en": "The Earthquake",
+    "name_id": "Az-Zalzalah",
+    "revelation": "Madinah",
+    "total": 8
+  },
+  "100": {
+    "surah": 100,
+    "file": "100.json",
+    "name_en": "The Courser",
+    "name_id": "Al-'Adiyat",
+    "revelation": "Mekah",
+    "total": 11
+  },
+  "101": {
+    "surah": 101,
+    "file": "101.json",
+    "name_en": "The Calamity",
+    "name_id": "Al-Qari'ah",
+    "revelation": "Mekah",
+    "total": 11
+  },
+  "102": {
+    "surah": 102,
+    "file": "102.json",
+    "name_en": "The Rivalry in World Increase",
+    "name_id": "At-Takasur",
+    "revelation": "Mekah",
+    "total": 8
+  },
+  "103": {
+    "surah": 103,
+    "file": "103.json",
+    "name_en": "The Declining Day",
+    "name_id": "Al-'Asr",
+    "revelation": "Mekah",
+    "total": 3
+  },
+  "104": {
+    "surah": 104,
+    "file": "104.json",
+    "name_en": "The Traducer",
+    "name_id": "Al-Humazah",
+    "revelation": "Mekah",
+    "total": 9
+  },
+  "105": {
+    "surah": 105,
+    "file": "105.json",
+    "name_en": "The Elephant",
+    "name_id": "Al-Fil",
+    "revelation": "Mekah",
+    "total": 5
+  },
+  "106": {
+    "surah": 106,
+    "file": "106.json",
+    "name_en": "Quraysh",
+    "name_id": "Quraisy",
+    "revelation": "Mekah",
+    "total": 4
+  },
+  "107": {
+    "surah": 107,
+    "file": "107.json",
+    "name_en": "The Small Kindnesses",
+    "name_id": "Al-Ma'un",
+    "revelation": "Mekah",
+    "total": 7
+  },
+  "108": {
+    "surah": 108,
+    "file": "108.json",
+    "name_en": "Abundance",
+    "name_id": "Al-Kausar",
+    "revelation": "Mekah",
+    "total": 3
+  },
+  "109": {
+    "surah": 109,
+    "file": "109.json",
+    "name_en": "The Disbelievers",
+    "name_id": "Al-Kafirun",
+    "revelation": "Mekah",
+    "total": 6
+  },
+  "110": {
+    "surah": 110,
+    "file": "110.json",
+    "name_en": "The Divine Support",
+    "name_id": "An-Nasr",
+    "revelation": "Madinah",
+    "total": 3
+  },
+  "111": {
+    "surah": 111,
+    "file": "111.json",
+    "name_en": "The Palm Fiber",
+    "name_id": "Al-Lahab",
+    "revelation": "Mekah",
+    "total": 5
+  },
+  "112": {
+    "surah": 112,
+    "file": "112.json",
+    "name_en": "The Sincerity",
+    "name_id": "Al-Ikhlas",
+    "revelation": "Mekah",
+    "total": 4
+  },
+  "113": {
+    "surah": 113,
+    "file": "113.json",
+    "name_en": "The Daybreak",
+    "name_id": "Al-Falaq",
+    "revelation": "Madinah",
+    "total": 5
+  },
+  "114": {
+    "surah": 114,
+    "file": "114.json",
+    "name_en": "Mankind",
+    "name_id": "An-Nas",
+    "revelation": "Madinah",
+    "total": 6
+  }
+}
