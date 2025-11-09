@@ -1,0 +1,24 @@
+{
+  "name": "Qur'an Bilingual Dataset",
+  "version": "1.0.0",
+  "maintainer": "BryleeTom",
+  "license": "MIT",
+  "sources": [
+    {
+      "name": "EQuran.id",
+      "url": "https://equran.id/api/v2",
+      "type": "API",
+      "language": "Indonesian",
+      "notes": "Provides Arabic, Indonesian transliteration, and translation."
+    },
+    {
+      "name": "AlQuranCloud",
+      "url": "https://alquran.cloud/api",
+      "type": "API",
+      "language": "English",
+      "notes": "Provides English transliteration and Sahih International translation."
+    }
+  ],
+  "text_standard": "Uthmani Script",
+  "built_with": "Python 3.10+"
+}
