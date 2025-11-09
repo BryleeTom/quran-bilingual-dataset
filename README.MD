@@ -59,10 +59,10 @@ Example:
     {
       "ayat": 1,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "transliteration_en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
-      "transliteration_id": "Bismillāhir-raḥmānir-raḥīm",
-      "translation_en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
-      "translation_id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+      "transliteration_en": "Alhamdu lillaahi Rabbil 'aalameen",
+      "transliteration_id": "Al-ḥamdu lillāhi rabbil-‘ālamīn(a).",
+      "translation_en": "[All] praise is [due] to Allah, Lord of the worlds -",
+      "translation_id": "Segala puji bagi Allah, Tuhan semesta alam"
     }
   ]
 }
